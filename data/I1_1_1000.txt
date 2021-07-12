@@ -1,0 +1,1000 @@
+A system of monitoring and alerting to be able to identify which resources are being consumed by which workload and help the operations team to react to performance issues.
+We will build systems that can provide better user management of the data residing in the cloud with better performance (i.e. better user interactions and better data crunching capability)
+We intend to build solutions that would help manage billing information from various sources and integrate that back to the data (such as account details) and help get better insights on costs.
+We will be providing support that helps organizations in growing their resources in a scalable approach.
+We intend to build predictive algorithms and models based on algorithms that will feed to our data layer to provide real time insight of the utilization and costs on the servers and the cloud providers.
+This will take two models:
+We are looking at solutions that would allow for multiple levels of security access, for example multi-factor authentication.
+We see a need to solve multiple problems across multiple domains in the service industry, as well as provide a better user experience.
+We intend to build a company profile that helps our customers understand the cloud solution that is being provided to them and use it in making their decision.
+We are trying to build a cloud management system for all of our products to manage resources and operations.
+A system of billing that is transparent and does not discriminate on the basis of data that is supplied by the user or in terms of the person that uses the systems.
+Cloud deployment with some help of AI could help better manage cloud environments that were never before deployed in the past.
+The cloud is not just for IT
+We are aiming at building a system that is able to use that information so that we can provide services such as data analytics and recommendations for different organizations based on historical information.
+We will be using the cloud data to build real-time and scalable solutions, which can work across several cloud platforms.
+We intend to build a toolkit to make it easier to manage the cloud and make sure that we can focus on the core business.
+We will try to focus on how to make the technology for the cloud cost management more transparent to the IT manager.
+We will build tools that will allow systems to run in a dynamic and self-managing way. This should include ability to add and remove resources in a dynamic way and monitor how the system is performing and providing feedback.
+We will use a new model of services that allow customers to pay only for their use and not the time consuming maintenance. As a result, these types of service would require less resources, thus being able to scale to accommodate higher requirements without the need to expand the current hardware or even the company's infrastructure.
+We will ensure that we keep our providers close to our customers, ensuring that not only are your costs reduced but you end up with a solution that keeps you in full control of your cloud resources without the headaches of changing providers.
+We intend to build personalised tools with the ability to analyse cloud data and extract insights about the customer for optimizing data or resources.
+We intend to provide service providers with a service that will allow them to optimise billing for their customers by making it more customer centric by utilising the data obtained from billings
+We are trying to build a scalable system for the organisation so that as we scale up, we can also scale down, and have a self-healing set-up as to manage resources. This would also be scalable and have low maintenance cost.
+We would also be doing some kind of data mining to learn from the usage pattern of the various customers.
+Our intent is to build a complete end-to-end system that optimally integrates all the resources related to cloud offerings.
+We would need to integrate data from different sources and use the data to build an automated system to create reports that show status,cost and use patterns.
+We intend to provide an analysis on the different companies' pricing structures to understand the cost implications of both public and private cloud services. This would also provide suggestions on how to use the company's billing data to help drive costs down by understanding the true cost of cloud service options. We intend to provide this analysis on a regular basis
+We will be creating a single source and repository to store information that would allow us to have a high degree of objectivity and accountability in relation to our systems.
+All the services will be powered by our own custom application server application written in PHP on top of CloudFoundry.
+We will provide a scalable cloud and system integration solution that will provide the ability to deploy systems in a scalable manner without any downtime.
+We will provide tools and a tool kit with the best and most economical solution for all the different Cloud service providers such as Amazon, Google, Rackspace, Microsoft, etc.
+We will build predictive analytics models to discover the optimal set of resources for each organization based on the current resource consumption and the available data.
+We will be building systems that help organize the cloud environment so that it is as efficient as possible. This will involve automating various processes to help make cloud services more efficient.
+We anticipate that we would have to move to SaaS model, where customers can purchase a fixed monthly or annual subscription and the billing can be managed with their own billing systems.
+A simple solution will consist of building a cloud dashboard that can be used by management teams to generate usage report on time, with the lowest possible costs to the organizations.
+Data collected from the cloud providers and processed by our servers will be available to the public (and our APIs for future use).
+We intent to leverage technology advances to scale the solutions quickly and in a way that can scale.
+We would be able to build some of the most useful reports, such as reports that could provide an insight on the cloud costs
+We intend to build on our data to be more powerful with analysis on specific information relevant to the organization to improve the business processes. we intend to build on our data to be more powerful with analysis on specific information relevant to the organization to improve the business processes.
+We intend to provide a cost-effective management of cloud data (bill / cost, consumption and usage metrics).
+We would be making use of various AWS services in which customers can utilize. We are keen on this due to the following:
+Our aim will be to build a better infrastructure for the cloud on our own and to help you manage cloud costs. Our current cloud costs are really bad.
+We will develop intelligent solutions to minimize and maximise the amount of cloud based products that an organization is using.
+We shall use this information to provide customized solutions to our customers that help in efficient usage of the resources.
+We would also be developing systems that can automate the billing operations, for example, in cases where your IT company will not be able to extract bills/categories/payments data and deliver the bill automatically.
+The company would be building its own web services to manage this data and the processes will be run from the company's data centres.
+We will provide self-service solutions and APIs so everyone in the organization can use information collected from cloud providers.
+We intend to build solutions that is capable of understanding what type of services are necessary and use the service models to provision and charge for the services.
+We are aiming at building tools that can help companies make decisions about their Cloud Usage. These decisions will have to be about usage models rather than just a cost reduction, cost-optimisation or usage management. As such, we think that each cloud vendor will have the opportunity to understand how their customers use a particular service and to offer them solutions that help them make better use of the cloud as it grows.
+We intend to build personalised solutions for different organizations that can help to more easily manage services based on information or service configuration on demand. For example, if an organization's services are to be billed using the Amazon Elastic Compute Cloud with IAM service.
+We will look at the possibility and provide solutions for companies that have to manage multiple services on multiple platforms.
+Cloud providers are not only providing the underlying data platform for storing applications and content/services, but are also adding new application technologies for cloud services such as Mobile Apps, Digital Services like Video and Image making it possible for the organizations to have a better managed cloud environment for their employees and clients.
+We will be looking to develop cost reduction strategies for the company using the data extracted using OCR.
+We want it to be automated once installed and also to be automated when maintenance of the solution is being done by the system.
+We intend to take advantage of advanced machine learning that can then identify patterns in resource usage, predict the future, etc.
+We will be focusing on the use of cloud-based systems in a single organisation for more effective data analysis.
+we can use the information we get from services like Google, Google Docs, Google Drive, and others to optimize the billing for an organization.
+We will be building and offering "on demand" solutions for a range of services such as web services, email services, file services, document sharing services and more.
+We will be building systems that will monitor resource utilisation with real-time reports, to allow the companies to take corrective/optimisation actions accordingly.
+We will be developing a product for the customers to better use the cloud services they provide to their customers, by making them simpler and easier to use.
+We will be building solutions that can help build a cloud security culture by having a centralized data structure that helps the organisations to protect and audit their internal as well as cloud resources.
+This solution will use the best practices from the best practices framework (i.e., data/metadata and business/customer management best practices).
+We plan to provide our clients with a set of OCR services that are able to extract information from unstructured billing data and put it into business data systems with customised business rules built into them which can help organisations in understanding their bill.
+We will consider and research into the future of the cloud and how it can be utilised in the business.
+We will be built around the idea of using the power of Artificial Intelligence to allow machine learning and pattern recognition to be used for identifying optimal and optimal in resources, systems and their requirements across all the solutions that we build or rent for the customer. We will also build the ability for the company to access this information for any kind of use case.
+We will be developing a multi-platform solution that can be deployed in the cloud and on premise and that integrates with other companies and will be hosted on the Amazon Web server.
+We want to provide our customers with a single point of contact by creating an online portal. The system allows our customers to easily communicate with us and provide their billing information. We want people to be able to easily send emails with a single click instead of having to go through multiple systems which would then lead to multiple emails. Our aim is to make it as much pain free & simple as possible by creating seamless online portals for our customers.
+We will be providing different solutions for organizations of different size and scale, using different services.
+Our company will deploy systems that help businesses achieve their cloud ambitions and make the cloud their own asset.
+We will build infrastructure at customer sites that can be monitored and managed centrally.
+We are bringing in the best talent to join the team. We do have a strong team and will be growing it further.
+We intend to build solutions using the data obtained from public sources as well as from the billing and other information from the organizations.
+The aim - Build an application that helps businesses in reducing the costs of the cloud by optimising the cost of the cloud while at the same time offering the best services, features and support at the cost of the service provider.
+We will build personalised solutions with an emphasis on performance and cost, and will also need to be able to deploy them. This might not necessarily have to be automated as the data will be available from the cloud providers and data may need to be accessed and queried from both the APIs or the billing information.
+We will deploy the solutions based on the performance and cost of cloud services.
+OCR or Optical Character Recognition is the technology that takes a letter or letter like a word and breaks it into parts or morse or punctuation. OCR or Optical Character Recognition software is used to perform image recognition and OCR is also a type of machine learning.
+We will also develop applications that allow organizations to take an account balance from their cloud management console and use that data to find and then apply solutions to resource usage in the cloud.
+We would ensure that our solutions are scalable to handle an increasing number of customers as the demand is there for these types of solutions.
+If your organization does not have an internal solution, we are working on it, making sure it works well and is cost effective for the organization.
+We already possess the skills in building OCR software, machine learning, data analysis, text pre-processing, building APIs and building systems from scratch, but we currently do not have the knowledge on developing the systems and deploying them on the cloud.
+We can also do the same for existing applications to make them more efficient.
+We intend to combine different OCR libraries that give us a means to build better business solution for each client.
+Building a scalable server that runs applications in the cloud.
+We will be providing a solution that not only helps businesses identify cost and resource savings on the services available in the cloud but also helps them build a better strategy of how best to scale up or down, etc.
+This would involve taking a holistic approach in deploying and managing resources from the cloud providers. Some of the issues we would face would be:
+We will build a platform that makes it easy to create new virtual servers (cloud service). We will provide a powerful UI where end users, administrators and operations groups can create and deploy new physical servers, as per their current needs and preferences. Our team will build custom tools for creating, updating and viewing the server information in this UI. We would build a user management module to integrate and manage cloud, email and other related systems for users, and would take care of all the necessary and important administration tools
+We will take advantage of the cloud as much as possible and not be very strict with our resource needs to ensure that we get a good return on our investment.
+To avoid a lot of overhead, we will automate the whole process of building up our billing model and automating data gathering so the process of billing cloud services is a lot less painful for our customers.
+The aim would be to develop tools that can integrate different billing and OCR services to build a common platform that can work with different cloud services. Such as, for example, SAP with SAP S/4
+The platform will make use of technologies like RDS, LDAP and OIT such as the OCR technologies to extract the required information from the bills before they reach the systems.
+Using the data obtained from the billing and other information from the organizations build a better solution for managing services. For example, there would have to be a model for making sure that different systems are using the resources efficiently.
+We will need the support of Data scientists from academia and industry to help with the research about cloud services and the new technologies that will help us to build the systems
+As we will be building systems for different organizations and different cloud infrasturcture, we prefer to do things in a way, which makes least difference to the customers.
+We believe that cloud cost optimisation is not limited to hardware alone. We believe that using the cloud means companies get to access better data and faster than ever. In this way we can make some smart algorithms that can help organisations understand the costs and performance of using cloud computing.
+We want to build a business grade, business intelligence and reporting system. This will be built to extract data from the cloud provider to identify business specific performance metrics, compare against a benchmark and provide a recommendation for the organization. This will also allow the organization to benchmark and benchmark against other organizations.
+We will be using AI components of products like Microsoft Forefront (Sage 500) to analyse the data and extract relevant information.
+We will be building an open source tool to enable end to end automation solutions for cloud cost reduction and optimisation. This tool would be utilising the data extracted from public sources and the internal systems to deliver automated solutions.
+We will aim to get the best of both worlds for the customers. Using the information obtained from customers we can build a bespoke solution that can provide a cost optimised solution. We can also provide solutions using external service providers as well as build a bespoke solution using public information.
+We will also work on some interesting business model to create or co-create business plans for our companies through a platform called PEN or POA services that will help us in planning and controlling our use of the resources.
+Most probably, we will build SaaS as an option for most users. So we will be able to provide cloud services for clients and they can be accessed using their own domain name. Our customers can buy the cloud modules, pay the bills and they can use the cloud modules even after they move back to personal domains.
+We will have the ability to design and implement very specific solutions that can handle some of the most complex problems faced by technology startups.
+We intend to build intelligent systems and software solutions to better manage the various resources which are required to run the organization including cloud computing systems.
+We will provide custom solutions for our clients with tools for analysis on all the billing data obtained from all the cloud providers.
+We will be building applications that could help the Cloud Service Provider(s) and end users make more optimized usage of their service with better billing.
+We will have data collection systems that can do the same from the public sector databases like government portals and also help improve government performance. The data that can be used by such an organisation could contain personal customer's information that could be used for better management of the public data infrastructure.
+We will be building systems that help organizations with the use, tracking, and management of resources consumed on a per user and per resource basis. This is called "resource-aware" systems and it is critical and missing in many cloud solutions that exist today.
+We will be building systems that manage the services that we have and use OCR to ensure that we are not wasting our resources.
+We will integrate AI to improve the performance and decrease the costs of the systems while providing a cost savings.
+We are also planning to use big data and machine learning to optimize a lot of resources and make them more efficient.
+We will implement a web and mobile application that could help to create revenue for the organization by finding the most cost effective and least expensive cloud management.
+This is a great opportunity for the startup community as I have seen similar companies are using this idea
+We will be building solutions where we can manage multiple AWS accounts from a single dashboard and provide multi-region support.
+We plan to incorporate the OCR technologies into smart phone applications that can pull the information from OCR from the billing, which we can then use to build a better, personalised and automated processes to manage the resources.
+We intend to build solutions that can provide access to enterprise applications through a personalised and targeted access control model.
+Use information such as: company name, city, type of business, cost, revenue, expenses from public sources to build a model that optimizes our internal resources and costs when compared to any cloud solution.
+We intend to provide solutions for a wide range of industries including retail, healthcare, manufacturing, education, defence, real estate, government, etc.
+We are planning to use both internal and external services to achieve the above.
+The whole solution would be in a SaaS model, with the pricing charged from the cloud provider. The cloud provider can charge different prices for different use cases and for different organizations.
+We will build business rules to extract information and find business intelligence, and would also work with other data sources such as payment and tax, which may also contribute to find answers to questions like "Do we need to pay taxes?" without having to directly ask each person.
+We need to build systems which can work and run without knowing if the cloud provider is up or down, whether there are any problems or if the service is working.
+We will be building systems that have the ability to manage multi domain/sub-domains including support for private data as well, where customers require different levels of services or billing policies for different sub accounts on different domains.
+We also intend to build tools to reduce the cloud costs that will make companies to lower their costs and to cut down on expenses.
+We will be building software that help us deal with the billing and subscription management in the cloud.
+This will take more time and money due to the custom coding involved but in the end it will benefit the organization and its users tremendously.
+We will be extending our current offering to help in managing the costs of the cloud. The solutions and technology we build would be scalable to support a large number of organizations that has very little resources to manage. We aim to make all the different cloud services manageable to the point where they can become a business part of our company.
+We intend to build tools that are both useful and scalable for both internal and external consumption of billing and personalised services that we build
+Some of this will take place using the existing platforms of my company to provide the information to build these solutions (such as, billing management and account information to process data)
+Our cloud solutions will be provided on the basis of a SaaS model that can use both on premise or cloud solutions for infrastructure. This would save both companies and the individual users the extra cost of maintaining the infrastructure that they had been paying for.
+We will be building and releasing the web app that would allow end users to manage and consume cloud services in a simple and intuitive manner.
+There will be an attempt to build a user interface that acts as an extension for CRM and Salesforce to provide a user driven decision making tool that would allow you to control cloud resources and make use of existing data sets as well as building up new ones.
+Cloud Management Platform will be a platform that would allow other organisations to access billings data and use it to help them determine the best cloud platform to deploy within their organisation as well as to generate strategies.
+We intend to build a service catalog that would be able to allow enterprises to self-discover the offerings as well as provide the self-service control point to provide a much easier management to the enterprises over the services, for billing and for compliance.
+We will be building solutions to help organizations address cloud integration with their other systems as well as their own.
+We intend to develop a billing management application built upon the open source platform which can be operated by third parties.
+The aim of the project with regards to the company and in the future of the project is to establish if the system and software being developed can provide a competitive advantage over the organizations in the long run.
+We will be building services that integrate the Cloud solutions in such a way that the cost incurred by customers is also incurred when they use the services.
+We will also consider other areas of IT such as IT security and build solutions that are based on the best practices and latest technologies.
+We intend to build systems where there is an emphasis on using data driven decision making for the management.
+We intend for the solutions to be flexible and future proof as the needs of our customers change over time. The solutions would be open source and available under an open source license, thus allowing us to grow and change with the needs of our customers.
+We will work on various methods to reduce billing costs across various cloud providers.
+We intend to build systems that integrate different cloud resources to create a complete and powerful cloud portfolio while managing infrastructure cost effectively.
+We will build solutions that take advantage of the new OCR that is being introduced.
+We will be building solutions that scale infinitely and can make sure if the systems are not there then they would find a suitable replacement, without the user needing to worry about it. We will be offering a lot of automation within the Cloud Management Platform that will make a great user experience.
+We will be working with the partners in an on-going basis. For a cloud based solution it's important to have the vendors involved in the solution.
+We try to do this using data science and build the model and solution as the organization grows.
+I will like to share this on my LinkedIn profile as a great example of how cloud computing is used and how we see it evolving:
+We intend provide better information on cost of the cloud services, costs and the ability to get a better idea on the current cost of cloud services, to provide better insight on this.
+We will develop a way to automate the cost estimations and help in the usage of the IT resource provision and other operations.
+We intend to build a custom system that we design to deal with data collected from different public and proprietary sources.
+We will have an option available to our clients to build and design a solution using their data feeds. This would include the data feeds and knowledge from different customers and partners.
+We will build systems that will provide real time data about the usage of resources over the different services of the cloud provider. All the analysis would be done keeping in mind which cloud provider needs to be preferred depending on the user of the solution.
+We intend to build systems that take the data from the web logs, email, and other sources and analyse the information and make inferences with the use and intention of the user. This system will provide information on different patterns, patterns that have been created over a period of time and analyze them to gain information about a person that would have been unknown otherwise.
+We will have the ability to build a virtualised layer as well as an on-premises layer in order to provide solutions to specific needs and to solve the issues better.
+Using the cloud services we are planning to build personalised solutions which can help in better managing the resources. We will be building solutions using the data obtained from public sources as well as from the billing and the other information from the organizations.
+We intend to build a Cloud and Social Network Management product. This product helps users to take measures to prevent overspending from any kind of overage and provide an interface for all. This product would take from data from social media to help provide a complete analysis helping you in your social marketing, brand awareness and other.
+We intend to build solutions for the government agencies, banks which include the Federal Reserve's, State and Local governments and will provide use OCR to extract and provide information on the resources.
+We also intend to use the current and future resources to build products that take on various aspects of the cloud industry including, for example, billing, billing analytics, billing APIs and others.
+We will be using machine learning and AI to build such solutions.
+The customer will be able to buy or lease access to these services to use and consume them for their benefit.
+We will build out our platform to scale the cloud service provider to multiple cloud providers as need to create a single platform serving multiple customers. For this we will leverage cloud platform technologies to give better scalability across an organization.
+The solution is expected to be based on the ability to extract data from the databases for the organizations using specific APIs.
+We will also have to be extremely flexible and create systems which allow us to create custom solutions according to any requirements that we might come across.
+We intend to build solutions that make it easy for the end users to start and stop services based on time of usage, and to enable the service providers to set up and configure services in a much more cost effective manner.
+We aim at building a web-based software and other technologies for personalizing and managing cloud services.
+We would build dashboards to show detailed analysis of resource consumption from the cloud and how it could be managed, using that information to help increase efficiency of the resources.
+We also intend to utilize real-time monitoring systems.
+We will be building an infrastructure to serve multiple organizations, one of the use cases will be of multiple organizations. Each organization will have its own billing information.
+There will be the possibility of selling these solutions and services to the different orgs and customers depending on the demand for their need.
+We will also be using AWS and Azure as well as others such as Google etc to build and run the solutions.
+We will be building a number of different cost and resource optimization solutions that would leverage the data obtained through OCR and different tools we would build.
+We will create innovative systems that will help enterprises leverage the cloud as well as provide self hosted services at some point to lower costs.
+We will be building solutions that will be able to scale to any size and complexity that the provider of the cloud services can provide.
+We will try to use AI techniques rather than traditional logic in order to bring value to our end users by using data and predictive patterns, rather than merely "knowing" the future.
+We will be providing solutions to handle the cost issue, this will be done using the open source solutions that will be available and easily configured to meet any requirement easily and at low cost of operations.
+We intend to build predictive analysis and forecasting tools and services to optimize costs and save more resources in the future.
+We would also like to build tools that aggregate the use of our cloud resources in the same manner as our cost management software
+We intend to build systems that automatically use the information from other systems such as business intelligence, email and other systems to extract more in-depth information about our customers, which will help in providing better customer support.
+we aim to provide complete and accurate cost based analysis for cloud providers. We have used CloudCost.com for the same but in our case we need to provide an API and have an internal application that can provide real time cost based analysis of services and usage, which in turn can help in reducing the cost of services and managing the resources.
+We will design and implement solutions that support the various needs the cloud providers may have.
+We intend to design the whole system using the following design patterns and using an ORM like SQL to connect it.
+We intend to build solutions which allow for the effective management of the cloud infrastructures by deploying appropriate hardware and related tools/services and providing cost effective operations to the cloud service providers.
+We would be working on an enterprise or system that integrates with multiple products and companies, with the ability to manage the entire cloud and data landscape. This would be built from the ground up to use all the available cloud resources with a complete set of security protocols. This would be built from scratch using open technology with a cloud of its own.
+A good way to keep your budget in check would be to use a cloud provider and the API to extract necessary information and send it to you, but a bad way would be to build everything yourself.
+We already have a product in place for the on-premise billing and CRM which can interact with cloud services, this will be the foundation of the solution.
+We are looking for people with experience and/or passion in web development - people who can build cool products to push the boundaries of what it means to be in IT.
+We believe the most important feature of the SCCO offering will be to provide the tools which makes it possible for the IT department to monitor, scale, and optimize the cloud services in the way that it is the most effective way to maximize the return on cloud services.
+The solutions would be built using the data obtained from public sources as well as from the billing and other information from the organizations and based on different inputs which we get from the users.
+We will be using data from the public systems to build solutions that leverage that data and be able to analyse the usage patterns.
+We will be building products that can be integrated with legacy applications to gain better insights into users and better usage data.
+We will keep the systems open source and encourage collaboration with the community in order to evolve and improve the use of these systems. You can view this open source repository
+Data is collected using APIs provided by cloud platforms and through the use of personalised solutions that provide the data they need.
+We are trying to improve and innovate the current infrastructure and application development as well as services that are offered through the cloud infrastructure and applications.
+We will build business models that can lead us to the right customers at the right time who are willing to part with money as we provide a solution.
+We will build an online dashboard with online dashboard/dashboard (web app) which can be accessed by customers or other staff to query, access, view & analyze the data.
+The solutions we build will make use of a variety of data sources that enable real-time and real-time analytics to help build a holistic picture of cloud usage. The solutions that we build will make use of big data techniques such as machine learning and deep learning to ensure that we have real-time data and real-time insights.
+The organization will need to be able to identify a cloud provider or provide information regarding the cloud service providers. It would be necessary to have the capability to select or provide data and or other information about the cloud provider and provide use OCR to extract information from the cloud provider for use in various projects.
+We will work to make it easier for organizations to leverage data in the cloud, including those from big data vendors and even from outside of the organization itself.
+We will work with Microsoft Azure to help deploy cloud service for each company i.e using it for development and testing. This would involve Azure to deploy and support a lot of solutions, e-commerce and various other services built using the cloud that companies would be able to access anytime on any device.
+We intend to offer services at affordable costs to customers in return for helping them manage resources for better usage of cloud services, rather than managing resources on a per service basis.
+We will be using an open-source framework for designing and deploying systems to support our use and optimise its performance with the information obtained from the billing system.
+We will be able to build out systems that are customisable as per the organizations' needs.
+We will be building a system on which the cloud usage can be monitored and provide recommendations on cost optimisation and best resources for a particular organization.
+We would utilize the open source code that powers the popular PaaS providers, and create custom products based on this using JSF, REST and SOAP APIs.
+The idea is to offer a Service Oriented architecture that will be built using the cloud infrastructure. We will use a combination of Cloud technologies such as:
+We don't require third party access to the systems, we are building everything in-house so the system will function without any manual interactions.
+We want to build the systems that can be easily maintained by teams working for the company
+We will build a Cloud Cost Optimisation (CCO) service (that we intend to call 'Pitman') for small companies, medium-sized companies and enterprise companies. This would have the following features:
+We will look at the usage of Cloud Infrastructure services such as PaaS etc. and use this data to manage the usage and costs of these services when required.
+We will be providing our OCR technology solution to the IT companies that want to make a change for the better.
+We will also make this a feature that will be added to our own services. For instance, we will be able to share bill to any other company, even if they have not subscribed to such feature.
+We intend to build a web app with APIs that can be embedded on the cloud systems to provide an analytics and cloud services at a single point of view. This would further build our offerings to help organisations make the right decisions on the cloud.
+We will provide management support for clients from day one via phone, email and face to face contact.
+Cloud services is more than just the ability to have an end to end solution; it's more about having all the components be integrated, easily and seamlessly.
+We use cloud resources such as data centers and systems, but we also use internal resources including web servers and databases for the services that are consumed on and off the cloud.
+We will be building solutions that help the organizations to manage their infrastructure while saving on the infrastructure costs. We will use technology and design to help the customers to better manage their resources using the cloud service they are using.
+We will also look at the best practices for the different organizations using the cloud.
+We are going to provide the client company with insights that have the potential to give them actionable data on:
+We will also want to create solutions to help the organizations take advantage of these savings. Once the data we obtain is combined, it will allow the customer to take advantage of the savings at their own expense.
+When used in an organization, each person has a unique profile and we will have solutions to use OCR to extract information and provide optimal solutions to manage this person's resources.
+All solutions will be scalable and easy to provision and cost efficient.
+We intend to identify the use cases and implement the solutions along with the necessary cost optimisation strategies which includes minimizing cost of operations, minimizing the time to production and improving uptime.
+The primary target market for our new cloud based product will be small to mid sized businesses, or those looking to enter the cloud market. This target is being constructed using the data we are gaining from a number of sources.
+We will build the systems that will help increase profits through automated optimization of cloud service delivery by making better use of resources and optimally consuming capacity and resource.
+We expect the biggest challenge faced by companies to be the ability to measure cloud cost, i.e. to be able to know the cost of cloud services and inefficiencies in use for cost / productivity reasons.
+We would like to build a personalisation solution, that provides information about your employees and even helps them to work out with you where there any inefficiencies in your IT infrastructure that could be rectified.
+We intend to have a solution that could be integrated into the existing application development flow that the organization uses so that the end user may use this in day to day usage without needing to develop new systems, tools etc.
+We intend to create some simple online tools to be used on mobile devices where organization can manage their costs on online tools and also provide the real time data.
+We intend to build the first solution that is totally transparent and data-driven and can handle cloud systems without any manual intervention. This will include personalisation options and other features in the solution.
+We aim to build a service which makes it possible to optimise cloud resources for multiple use cases and to provide data security and confidentiality.
+We will build an API solution (API - Application Program Interface) using Node - JavaScript for client side and Ruby / Sinatra / Flask for server side (PHP and.NET) to enable real time dashboards for our client side and server side. We will also build a billing and data management solution.
+We will strive to ensure that all resources that we consume are under management and that we have a system of keeping them always under control.
+We intend to develop systems that will provide insight on how a company manages its cloud expenses and make suggestions on how to reduce these expenses in the future.
+With our API based services, we would like to build a solution to offer both software as a service (SaaS) and also cloud hosting services. We are in need of a better management of the resources so that people can make decisions and get value from them using the system of their choice.
+A strong emphasis will be put on customer relationship management tools such as CRM, which would come with a set of other solutions that ensure that the customer would get the best out of cloud services.
+We would provide consulting services for different customers' organizations which can get the best solution based on client's data/statistic of the organization.
+We plan to use the solutions to manage our end users through some of the most common errors they make while using the cloud platform and by automating or customising some steps to the billable process.
+We would use the OCR as a basis to build intelligent automation tools by taking various entities like CRM, ERP, Marketing Automation and Sales automation etc and combining them to form a complete system that can optimize the cloud bill by using the various resources on the cloud platform/applications.
+We will build a cloud environment that uses automation for self-service and the automation of the business processes with minimum intervention of the human.
+We also intend to build the automation platform as a first line of defence against outages and other services that can be consumed by the companies and their employees.
+When using the Cloud we will allow users to define custom policies for access policies, data retention, security rights set and so forth.
+We will build a dashboard where users will be able to configure systems for cloud based resource optimisation and other services.
+One thing very important, you want to identify the need/desire of the customer or the user and make sure that any solution meets their needs and provides the value to them.
+Once a bill (or a number of bills) is received on the billing side we will need software to analyze this bill and determine if there are any costs that could be improved through better management of the resources like that of cloud computing.
+We will be implementing a platform that can help in identifying possible waste, inefficiencies and areas for improvement by analyzing the data and allowing organizations to take corrective measures. This will act as an aid to the organization and will allow for them to know exactly where its resources are most being used and which areas are wasting the most of its money. In short, this will be a Cloud Cost Optimization Solution as such this can be applied to any other type of data that we can extract from the cloud and
+We intend to build an application infrastructure of the cloud service using the API and allow the use of OCR to extract information and return what is being offered to the users.
+We will provide personalised billing to ensure that the resources consumed (ie. compute, memory, storage, network, bandwidth) are optimal and also make sure that each organization gets the optimal billing.
+We want to build APIs for the organization to enable them to use our existing systems and build more efficient/more personalized solutions. We also want to be able to develop services for multiple use cases using multiple clouds etc.
+We intend to use other public APIs such as Salesforce.com and other data sources as well.
+We will be building solutions using other methods as well. We will build using technologies like Big Data as we believe it will be the future and if we know when the company's resources are underutilized we can build better solutions to better utilize these resources and provide best service for the customers.
+We are planning to make the data on different clouds more interactive so that it will be easier to build a model that could be used to build a predictive data model.
+We will be able to use Cloud Integration of any size and size of any cloud provider.
+We will keep our customers informed of our products and services as well as help them understand the benefits of doing business using the cloud as well as managing that cloud resources using our products
+We will use a combination of AI and Artificial-Intelligence based solutions.
+We will be providing solutions that can scale and that is why we will be using the Cloud to leverage the resources and services. This could be using the cloud to host multiple services (i.e. databases, mail storage services, etc.) or as a single service that can be consumed from anywhere (i.e. web, mobile app, etc.).
+We will build applications to connect these resources together and help optimize the operational costs from the cloud.
+We would like to leverage the power of data science to provide personalised solutions using machine learning and AI.
+Our main focus would be on developing a set of services to help streamline the use of cloud resources. This would be designed to help companies who are at the edge of managing the cloud and need tools to make the most out of it.
+The ultimate goal would be to provide a simple and cost effective service with an end to end solution that is automated in nature.
+Data science is an integral part of our company's mission. It's a process of analyzing vast datasets and creating analytics tools that will be used by the company to help improve decision making. We will be using a variety of public sources and create a personalized model for different companies.
+This would be a system that would be able to manage the performance of the service with regards to the resources used and the billing cycle.
+We will be building tools for the organizations so that they can manage their services from a user friendly interface.
+We can offer the option to the customers to control the usage to a specific size, number of concurrent connections and types of services as their organizations want.
+We are going to build an automation driven solution to manage the usage of the cloud resources and provide an end to end solution to manage the cloud cost effectively.
+We will design custom algorithms to provide a holistic view of the cloud usage from billing and other info.
+We intend to build our solutions using machine learning tools,
+We are expecting the cloud providers to provide us more billing and other information when their services are used. This data is often available by third parties without any authentication.
+The main service that we will build will be a Cloud Billing Platform that uses the user's data obtained from the OCR APIs to deliver information.
+We will be building open APIs for a better and standardized cloud management. This will be able to easily be consumed by third parties allowing them to easily integrate with the business systems of the companies.
+A system like this will also enable us to use machine learning to determine the value of a particular data point from cloud and also to determine the cost effectiveness of using cloud.
+We intend to build infrastructure that can process large volumes of data, compute and provide the data to the desired application.
+We will leverage the billing information from the data to identify the usage based on historical trends and optimize the resources to provide better services. The system for this will be able to use the billing information to generate reports which will be used for customer service, and for providing suggestions/suggested actions to better manage the resources in the cloud.
+There will be a need for new software, services and products to provide services in the cloud services. This will provide complete control and management of cloud services.
+We will build apps that do everything possible to optimize, reduce and optimize the expenses and save time on account of spending it on the software itself.
+Our system would also allow our customers to get a clear roadmap and all billings, bill credits and any other pertinent information
+It will be a very important part of our growth, with our first product being a turn-key managed billing solution. We will be able to build a complete billing solution from the very start with few modifications of the services.
+We would like to build cloud based solutions using open source technologies to make our company more transparent to its customers.
+If possible our solution will work for multiple cloud vendors.
+We will be building a personalised and customized solution for every employee, that can help automate and optimize the spending in the cloud as well as in the cloud provider.
+There will be a dashboard for the users to use at any time to view how the user is doing with the resource consumed by their service.
+We intend to design custom solutions to manage the costs and performance of the cloud while keeping in mind the security and reliability requirements.
+To make the best out of the cloud, we will utilise the existing infrastructure and tools that we had to manage our physical resources.
+This would enable the cloud companies a better way to manage the resources and also will enable them to give better recommendations to use their services.
+We would be selling the custom solutions (built on top of our own systems built on top of open source APIs).
+I am not sure about the business model. I will have to think about this. but i think the most important thing is that we provide a better experience of the cloud that's available in the markets today.
+We will be building an open API on which it is very easy for any client in the system to build applications and also a web application that can be used on the customer's behalf. Application development will be done using languages that are easy to build apps in such as PHP, Java, JavaScript and C# as well as with RESTful API's - HTTP based - to any other client.
+We will be able to integrate and build tools so that cost for different entities can be analysed using the cloud and they can adjust their resource usage based on different parameters on that could be varied.
+We intend to build solutions for the current cloud providers so that they can extract value from them by taking best cost savings practices. We expect this could be done with the data on the current providers.
+In order to build an intelligent solution that will serve the requirements of a broader market, we will attempt to leverage the data across the world available to us.
+We will build infrastructure using best practices in the industry to enable us to grow our business and to provide a competitive level for our customers, and will work closely with our existing technical advisors.
+We intend to build systems that can provide an easy way for the organization to access or obtain some insights on resources or other information required by the cloud environment.
+We will be building open tools for the users and partners we get access to for these projects. There will be an option to build your own service but this will be open source.
+We intend to provide a system that can be integrated with other systems to provide solutions for complex business process such as CRM, and email, and other information flows to ensure that the entire business processes are kept up-to-date with the cloud billing.
+We will use this information to identify the ideal location for resources. Also, we will use this information to identify what the most optimal way to consume cloud is for our data storage service.
+We will be working closely with companies like Azure, AWS, Google and many other companies to solve their own cloud problem and build a new one, as well as a collaboration with other developers to bring the ideas into practice.
+The tools we use to manage the use of technology will be very lightweight in nature, this is by the way not a full fledged product but more of a service on top of the API it serves.
+We believe that for a company like cloud to really work it has to become the 'ecosystem' that supports not only services, such as a chatbot that can answer common questions like "hello world" but also create a way that organizations could have full control over the entire system.
+We believe this would benefit the organisations by helping them cut down on wasted resources and improve their overall resource usage.
+Most organizations need to deal with the fact that most of their information is kept in the cloud (both data and applications that are hosted on the cloud platform) and with them on a daily basis. It is an ongoing effort to gather information on the performance, costs and the use of the cloud in order to keep an eye on their expenses, increase the efficiency and the profitability.
+We will make this platform user-friendly for companies that haven't had much experience in cloud/IT management and would like to take a look at what we were doing.
+We want to build out a system that allows organizations to work on similar initiatives together or within organizations but at a different levels of detail. Organizations can come by and see the exact details of how the various projects work together even if it's more than one project.
+We are building software that is built on cloud computing platforms and we intend to integrate and sync our customer’s data
+We also want to bring in a 3rd party software tool that will help the company in getting cost optimal use of cloud resources. We will be helping the companies understand the cost efficiencies of using cloud services and help improve their resource management using cloud.
+We plan to implement and learn how to extract information through OCR and put this information into databases in a relational database structure.
+We aim to offer a platform where organizations can deploy their own public cloud services to run their own business or other services. These can be used over and over again and also scaled to match the changing needs of the business in terms of number of resources.
+We will partner with software vendors so that they can provide solutions for the above mentioned use cases with some added customisations.
+The cloud provider will become our data and billing provider for both its cloud services and for other cloud services provided by our company.
+Cloud Services are about how the organizations utilise public and custom data from external sources and use services to do things that are not possible from any other medium. For example; we want to help enterprises improve the efficiency of their internal software tools and systems by improving the knowledge of how software systems work together.
+We want to build a system that helps optimize the usage of cloud services for different types of workloads and in the same time give you the ability to see at the dashboard where the current billing and resource utilization of your computing resources at peak hours, how quickly the performance is able to keep up with usage demands and in a very detailed manner how much of any given service(s) the system can or should be able to serve.
+We will build a robust platform to create a dashboard and API to help business users in using public cloud services and get complete control over the operation of their cloud infrastructure. Additionally, we plan to create an API as an OCR, which will help in gaining much needed insights into the cloud and operations as well as create robust and high performing analytical reports.
+We will be building a system that can manage and orchestrate these use cases for the organization by provisioning and monitoring the systems and other services on the cloud infrastructure.
+With Cloud solutions built we intend to also provide a solution for an organization that wants to own the cloud provider or build their own platform for doing this or similar.
+Our goal is to build a solution that provides high quality personal and corporate accounting services to customers by using the information we get from public sources.
+We will build a system that can be used in multiple locations by different agencies as this kind of a software should be modular that can be deployed by each of them for further expansion / enhancement.
+We intend to keep the cost of scaling to the cloud down as well.
+The services will be delivered to different audiences using different interfaces to provide a best fit solution.
+We will be using the cloud storage as a way to save the costs as well as the information generated by the cloud providers
+This would include the provision of customized services and help resolve the problems that are inherent in complex environments.
+We plan to build a system that allows us to make a more accurate assessment of the resource utilisation by the cloud providers and other resources involved in providing cloud services.
+We will have some sort of AI to help with cloud and data management by understanding the best strategy for each user.
+We plan to use a data analytics engine (SAP R/D CRM) to build a cloud cloud cloud based service to build on the data and data analytics (such as marketing, customer service, sales, etc.) using machine learning and cognitive computing.
+We intend to build tools that can make it easy for our customers to find new business services with the same level of expertise of finding and monitoring cloud services.
+We will be able to extract information such as average monthly costs, costs per user, average cost per machine etc to help us build cost per user models.
+Our solution intends to reduce the costs of cloud computing.
+The solution is going to be based on an OCR module. In the process of developing an OCR module as a service, I have managed to build and maintain a very good OCR module for the past 9/1/2015. This module can be configured for almost all data types while supporting several hundred parameters from CSV
+We intend to build real time management system for cloud cost optimization, which can perform operations in the cloud itself as well as providing insights in real time depending upon the queries asked.
+The solution will have to provide a one-click billing resolution to enable organizations to do away with manual billing information entry.
+We will be working with different cloud providers and using the billing data to provide custom solutions. We would recommend a combination of some of the services we have described in the previous points.
+We would use machine learning to understand how to analyse and improve our existing services in a way that's beneficial to the customers.
+An API will be made available for public cloud providers to interact with our SaaS offering. This API would provide us to collect and manage cloud costs for an organization. It could be used by an organization to get cloud pricing, cloud performance metrics, usage and cost optimization etc..
+The solutions we will build will aim to be as efficient, performant and fast as possible.
+As this is a new product category. We aim to add new capabilities like integration with other solutions and to provide solutions for companies with multiple vendors, and with multiple products from different solutions, while keeping the prices as flat as possible.
+The solutions built will be able to support real time monitoring of cloud services to ensure smoothness, efficiency and avoid failures to be able to identify problems before they happen.
+Our systems will also provide to the customers the ability to manage and monitor their cloud spending.
+We would provide systems in the cloud that can be used for monitoring, control, alerting and reporting to the organizations.
+We will partner with different resources and suppliers to allow us to implement and develop our solutions.
+We will ensure that our solutions and APIs can be integrated with the cloud providers API and we can get the bill information from the cloud providers.
+We will continue to research ways to lower the costs of using the cloud.
+We intend to build systems that could do the heavy lifting for a cloud company and allow them to focus on building the next generation of products and services.
+We aim to use the cloud data for the benefit of each organization with an eye towards building a more efficient and effective set of systems and services.
+We will be building solutions and services to be integrated with others using other web/social applications.
+We will build a scalable infrastructure that can scale up at will and on demand. This provides the right mix of resources for the requirements of new customers but also keeps the existing ones well and running.
+Our goal would be to bring in a lot of value to these organizations by building automated system that would help them become more efficient, transparent, to work with any cloud provider of their choice.
+We will be building solutions for the clients that will allow them to have better insight into other software used in their organization as well as to improve the security and the efficiency at work in the organization.
+We will be providing systems on all the major service providers as well as build bespoke solution for the company based on customer requirements.
+We will be looking for cost effective solutions that scale in all kinds of situations.
+e will build personalised solutions for different customers to keep them up to date with their billing data.
+We will be building systems for different regions that can manage multiple regions while running on the cloud and/or own infrastructure.
+We will be offering solutions which provide both a cost and value based model of cloud services, helping to ensure that customer experience and satisfaction is maximised and the infrastructure is optimised to reduce costs while ensuring that the best functionality is delivered.
+We will be building automated solutions that will analyze the information from the providers and provide the usage information in a way that the system can be used to optimize the costs.
+The organization would have to be able to consume cloud solutions using their own infrastructure and data that they generate.
+We will make data available for 3rd-party analysis and provide use OCR to extract information and generate insights to help manage the resources.
+Building solutions for both on premise and the cloud.
+We intend to built different kinds of services which could be used to provide a variety of services to people inside or outside the company, such as the ability to book hotels, ticketing, grocery shop, etc. We will also be building a new kind of service to help individuals pay their taxes or to monitor their income, expenditures, expenses, etc., etc.
+We will give the opportunity to all our customers to select which server-side cloud cost optimisation services would be best for them. Our goal is to provide a single platform through which they can implement as many cost optimisation services as they like to take full control of the resource.
+We will go out and find what new things we can do with the data to build better processes, be able to perform better financial analysis, be able to spot issues and make decisions based on the data.
+We intend to identify the best way to manage resources in the cloud by optimizing resource consumption for different services and technologies.
+Our approach will be based in automation and the use of APIs that allow for the automating of repetitive tasks.
+We don't want to create unnecessary complexity for customers by having custom built services. We want to create a solution to meet various organizations needs.
+We intend to create an innovative business tool to help better manage the resources.
+Based on information from the billing and information extracted from public sources we can create new services that help better manage a company's cloud infrastructure,
+We will build solutions/products that can help organizations better understand their operational efficiency.
+We would target enterprises with large, complex workloads, where the cloud is the only choice to manage and they want to manage all costs (e.g. support services, hardware and software).
+We would build a solution that will allow users to purchase time on the services at a price calculated by pricing engine. This would help the organizations by allowing them to scale, and therefore making the cost of cloud services cheaper.
+We intend to build private solutions and integrate them with the Public Solutions using the API to help customers better manage their cloud usage and consumption.
+We will be building a model using machine learning to estimate a cost of different cloud resources based on the bill records or data from the API.
+e will have a software that can be controlled remotely (for example by using the SaaS model, if you are already using SaaS then you already know how to build and manage).
+We will be looking into creating more and more business/financial models and have plans to provide our own private database with the use of the data we need to provide the best possible business solutions.
+With the right information in hand we will be able to provide solutions that will help organizations to achieve better cost optimization and better management of their cloud services.
+We will be building solutions that can be integrated with different cloud providers such as SAP HANA, Microsoft Azure, AWS and many others.
+We intend to build applications that can interact with the billing and other information about the service providers and the customer through OCR technology and in most cases create a very custom solution from the solutions that we build using other systems.
+We are trying to do more of this for our organization, that is in a way that the company, as small as it is, gets better management from such actions.
+We will be creating cost savings for the organization as well as better customer support, customer retention and customer satisfaction.
+We are looking for a solution that not only looks at the costs of the cloud but also looks at the potential benefits of using cloud services. A cloud service based application must come up with solutions that are unique to fit the specific needs and the resources of the organization.
+We want to build a solution for internal use that would integrate with the Cloud, and leverage the services that it provides as well as take on other internal processes. We will be writing this system using Java or C# while we are in India which will run in the JAVA and.NET stack.
+We intend to build a cloud based personalization platform that can generate content based on the usage history of the customers (as well other data like their financial status and interests at the time of usage).
+We will be creating business intelligence and analytics platform that integrates the customer's data to make decisions for cloud based service offerings to the customer.
+We will be building systems that can help our customers in growing and scaling businesses. Our approach will help them focus on business critical issues and not waste time on non-important features.
+We will build personalised applications that work effectively on both the cloud provider infrastructure and also the on-premise environments using the data in the cloud.
+We will build a platform that integrates cloud billing and offers the user the ultimate freedom of choice by integrating other services such as Google Analytics.
+We will have the flexibility that will allow us to build new use scenarios through the use of other vendors/services.
+We will provide our own APIs for various services that will offer faster and simpler access to the data and use OCR to extract the data.
+Cloud is a unique business model for technology, but it has a much bigger impact on our organisations today than it ever has.
+We will build a service to provide information to the clients as well.
+We will strive to make cloud operations more cost and time efficient.
+We will leverage technology to make these solutions more efficient and scalable than they are now.
+We are planning to build a billing platform that would help organizations do accounting and billing right from their phones for the customers and for the other organizations in the business.
+We intend to use the above techniques to help other cloud providers such as Azure and AWS build systems to optimise their offerings.
+The services that we are developing will provide end user and help to manage expenses, improve cash flow through different means. (eg. tracking expenses, creating budgets for each employee)
+We will provide support to cloud infrastructure to provide better scalability and more efficient use with the services we provide.
+We will not be building services for any customer segment and would be focused mainly on the B2B market as we have a number of customers we are working with.
+We will be building systems that help an organization to optimise billing. One system can be built to optimise billing, and be made flexible to handle any types of cloud services. It can also be made adaptive to the volume of the billing information, time being paid, etc.
+We will be building systems over a platform that enables us to build different solutions. This will be much like building a house with multiple different houses of design with different needs. We will be building our house over one common structure with the same kind of windows and doors as to the rest, and we are trying to keep it a low maintenance house that is only a few steps from maintenance. Just like the companies need to have some type of automation to avoid too much management efforts of these systems, we need
+Cloud is not a silver bullet. It requires proper planning and preparation. We will be building systems that make use of all the cloud offerings and that are as robust as possible to take into consideration the variety of cloud providers and different environments.
+We will offer a flexible and open source solution that would integrate with other existing products and services.
+We would take the best of the existing approaches and provide a better experience to the end customers.
+We will be building predictive analytics using data from other sources (other than the public ones) to make predictions and make recommendations.
+We will support different cloud providers and help them build similar solutions for their customers. While it would be ideal to build a single service, they will continue to build their systems to suit the needs of their particular customer base and it will be at the users' discretion to decide which service or suite of services to use.
+All our systems are built with open-source and open-core technology stack like PHP, Javascript, MySQL, Apache and a little bit of Linux
+We would build APIs on top of these data stores/solutions and let third parties use them as a foundation of their systems.
+We will use the cloud for solving the core business needs. But we will try to address some problems that currently exist due to the use of on premise systems and need to be resolved soon.
+We intend to provide solutions that can save companies money while at the same time helping to reduce expenses.
+We intend to build products that help organizations manage their cloud services much more efficiently. For example, we can extract more specific knowledge about cloud services that can be leveraged to find useful insights related to cloud, e.g. how much does a specific cloud service cost?
+We will be working on technologies that can help ensure better user experience and help make the companies more innovative and dynamic.
+We will be building systems that can help organizations to get the complete picture from the various sources of billing and also extract information from cloud based systems.
+We will be doing this as per the best practice rules that will be set in place for the solutions that we build. This would be building solutions at a high degree level that help organizations become much more productive through improved resource utilization.
+We will leverage APIs, as well as be able to create self-service portals that will provide access to the information we intend to collect from the companies.
+All this must be implemented to suit the requirements of a given business as well as meet its data security requirements.
+We will build predictive tools that use the billing information to predict the future resources required to run on the cloud.
+Our solution will also help in streamlining the administration of our data and data storage.
+We plan to implement solutions for our customers to get answers to their queries regarding cloud or other resource consumption and usage and to help them manage such consumption better.
+Our vision is of a service for the entire organization that helps us to know the current usage of our resources and it's impact on the overall service. It can also allow us to monitor the performance of different resources and build a system that optimizes how they are used.
+Some of the solutions that we are likely to use include an API based platform, data analytics platforms, enterprise SaaS solutions and a hosted cloud service like Amazon etc.
+As a company, we will need to gather and collate information from multiple sources in order to create an optimum database of all resources for the company.
+We will try to build better systems that would help better manage these resources. We would also like to provide them to others and help them manage them.
+We are building the software that would use all of this information to provide the end user with the best of both worlds, personalised solutions while not letting them get over whelmed or get lost in the complexity of such solutions.
+As part of the application development, we intend to use various modern technologies with regards to Artificial Intelligence and Machine Learning.
+It will be a service-oriented architecture with a focus on service oriented design.
+We will create new and better ways for monitoring and management.
+We will be using machine learning and analytics to create tools for organizations that would provide a better way to track and monitor, optimise and manage cloud usage, as the bill for usage.
+For some organizations, we will have no billing information, but just have the ability to manage resources and use the data from public sources. Others will have large bills that would be easier to manage through APIs and other means. This would help in solving certain issues and at the same time improve control of the billing and usage.
+We will make the software product available in the best way and make sure that our products are as well tested and error free as possible.
+By building the infrastructure in the cloud, you will get flexibility without the capital cost of building or the licensing cost for scaling up.
+We will look at best practices that can increase performance and reduce costs.
+We intend to build systems that will take in data and provide use OCR to extract information.
+We intend to make it simple to find the best solution by providing a visual representation of the cloud cost for the given organizations. This would need to be very efficient in terms of computing resources and bandwidth in order to find the best solution in less time.
+We will leverage open source technologies to allow for better flexibility and scalability.
+We are thinking of the applications where the user can access data from cloud and make changes, this will be through using mobile solutions as well.
+We will be providing an automated solution for the billing of cloud solutions for all organizations on a long term basis.
+We intend to build systems that allow users to access and use OCR information and leverage it for making better informed selections for their organisations; both in terms of services and in reducing the cost of the services.
+We will provide tools to organisations that are using or have used the services and will build products for them.
+We intend to use machine learning to create systems where users can define criteria for billing and resource consumption and can then define the optimal solutions for billing purposes.
+We will build solutions that will improve operational cost savings through better utilisation of cloud services with a focus on eliminating single points of failure in these companies (with the companies internal systems).
+We intend to provide a product that users can easily use regardless of their experience and budget; the product should solve all of the problems the customer can think of when they have a need to use cloud services.
+we intend to build tools for administrators to manage all the data related to their accounts to better understand the overall cloud cost and consumption.
+We intend to build multi-tenancy solution where systems are build on top of multi-tenant service provider and different user can be assigned to the different systems as well as different resources.
+Building applications that can utilize this information to run a predictive model and offer recommendations to customers to help them further manage cost and use services.
+The services to be built would help organizations in two ways:
+We intend to develop a system that would run on-premise and allow organisations to use a SaaS hosted on Azure. This will make it easier for the service to be accessed from the cloud without much setup and without requiring significant investment.
+It is the responsibility of the organizations to pay the bill to the cloud provider and there would be no need for cloud companies to provide solutions for the cost savings involved.
+We will then leverage the data gained about our customers in the cloud to identify opportunities for using/not using the cloud to improve the performance and ultimately the bottom line of the firm.
+Our products would work seamlessly with existing web based systems to optimise your existing cloud services.
+We will have a data analysis and correlation mechanism for the cloud to analyze its impact with some of the systems and use the data as a resource to provide suggestions to the organisations based on the usage patterns and their costs.
+We intend to build the capabilities to build on top of cloud offerings and to use a model like AWS elastic compute on demand/elastic compute instances (ECOC).
+We plan to be the primary integrator/vendorte provider in the market.
+We will be building a personalised solution using the data obtained from public sources as well as the data that comes from the billing and other info provided by the partners.
+We will be building an API using the JAVA technologies, which will provide a uniform API for cloud services.
+We will try to enable the use of the platform by not having to build own solutions from scratch. In case, any product is out of stock, we will build a custom in-house solution for the needs of the organization.
+We will be developing a web portal to help the customer's better manage the information collected from the public and their own network.
+We will be using real time information (RIT - Revenue Intelligence Technology) to analyse financial information from different sources - companies, banks and public providers and provide cost optimisations and business insights.
+The personalised/cloud solution can be built once and used in the data warehouse and on the edge devices of the cloud for better decision making.
+e would try to provide solution which have a direct impact in the cost of operations of our customers so that we will get a reduction in cost for provisioning cloud resources from cloud providers or consumption the billing information from cloud providers.
+We will be developing different solutions for different organizations. The main goal of these solutions will be to minimise the amount of time spent on maintenance.
+We will set up billing and cloud based system that provides real time real time alert of what's happening with your cloud resources, be it hardware, or cloud based services and tools.
+We will be building products that allow businesses to utilise the cloud without having to worry about the underlying technology.
+We will be building systems that generate reports over time. This could be done using the API generated and extracted data to generate insights and recommendations, based on usage and data.
+We will be trying to find good business-oriented solutions for the cloud services so that we can compete in an environment where there is a lot more demand, a lot of competition and a lot of new product vendors. A lot of startups try to take on this challenge and try and build a better user experience or service in the cloud without much understanding of where exactly the cloud is headed.
+To deliver an exceptional OCR solution we will use deep learning capabilities
+The company is well positioned to use the services and develop the data that allows them, as a data collector, a better insight into how their cloud provider bill their cloud providers, thereby improving the services.
+The solutions will involve data analysis - data mining - and machine learning techniques. They may take in several years to develop and may not be feasible for a quick fix solution.
+We intend to build a personalised and cloud-aware application on top of the above system allowing the company to be a more efficient cost centre. We'll also provide a way to create new revenue streams.
+We will take in the data from both private and public providers and work over that data looking for any inconsistencies and correlations.
+We will also build a system to integrate cloud management and cloud automation with other IT systems such as hardware and software from different vendors to ensure high availability and resilience against service outages as well as system uptime.
+The personalised solutions shall be easy to share with others around the world making it simple for an organization to consume.
+We will explore the feasibility of creating a personal computer for each organization who can run the data-driven applications.
+We will also keep the data in an accessible way that allows people to access the data for analysis as well as for analysis using the built in analytic tools.
+Our team is excited by the idea of building products that solve the business requirements of the target companies in order to help them outgrow their current systems and have better insight in customer and vendor spending.
+The focus would be towards improving utilization of cloud resources by providing automation of the scaling and optimizing systems with a goal of reducing costs.
+We will be using a data driven approach to determine the optimal business processes, models or tools that will support the desired outcomes. The ultimate goal is to be a complete analytics solution and not just a solution provider for cloud providers.
+Based on the analysis and recommendation made, the company would build different web applications using PHP & MySQL.
+We will be building a fully functioning and end-to-end solution that allows organizations to manage the cloud infrastructure and provide real time operations and usage information about the same. All the software would be built using open source software.
+Once we have an understanding of the resources and usage of the cloud, then we can make better use of it. For example by being able to predict future costs and predict future performance of the cloud.
+We intend to build these solutions by making use of the technologies that already exist today, like Apache Beam, Kafka, Spark, Storm, TensorFlow, OpenData, etc.
+We will use the data from the services from the previous point (i.e., extracting billing info or using OCR for instance) and apply machine learning algorithms to derive the best cost and billing strategies for the organizations. We will then build and integrate the use of those strategies into the systems.
+We will build systems that can be used to do full audits by the team working on each project and build up a profile of it's consumption of the cloud service.
+We believe that the cloud can be used in place of expensive and old-fashioned hardware and software architectures. This will be in the form of custom made open standards and software frameworks.
+We will allow users to connect to our web portal and utilize the built solutions in an efficient way as opposed to the current way of using services from third parties. We will provide the built solutions directly to the users, but will also be able to sell to them at a high rate using third party providers.
+We are looking for people with expertise in cloud computing and systems or any similar area to design and deploy systems which would take in and ingest billing information and extract the information to help identify the best cost optimisation solution to the end users.
+We intend to build solutions that would allow the companies manage/optimise their systems better as our cloud billers can help with the billing to drive cost management.
+We will build solutions in which the organizations will provide use OCR to access the data for information and then will present the best possible recommendations for the optimal resource management.
+We will be building a knowledge management solution that would facilitate easy and intuitive access to the required data so that it would provide relevant solution for the users without requiring any user effort.
+We will be working closely with different clients that could be providing data and using cloud services. By gaining a unique perspective on managing the data we could help them to provide better and cost effective solutions across different domains.
+The systems should make use of the OCR capabilities in the cloud, this could include scanning through the web using the API or scraping the web and then applying it to the information extracted using OCR.
+For every new organization that we open we expect to see the benefits of cloud scale and cost of scale in terms of cost, utilization etc. In fact for a single one to one, cost is almost irrelevant. For every new organization that is opened we will build better scaling systems to offer a better user experience for the organization.
+All operations done on the cloud can be managed by automated scripts using data stored in an OCR application and by using some sort of rule-based tool.
+We will be providing API(s) to other applications to improve their use of the data available at OCR and to help them manage and create new services using the data available at OCR.
+Using the data obtained from the billing and other information from the organizations, we intend to build solutions that allows us to build, deploy and manage systems in the cloud much faster and effectively than before.
+We will be developing solutions that will help companies in getting to know the cost and time of the cloud services, so they can compare them accordingly and improve their strategies.
+We want to make sure that we are not simply taking up unnecessary space but we should be managing the most out of the available bandwidth and provide more effective services at the most economical cost for the clients.
+We will try to make it as easy and painless for organizations to adopt and adopt cloud computing as possible.
+We would integrate billing systems, OCR and payment systems to manage expenses by integrating with different cloud related systems that the company will use.
+The solution would be custom designed as per requirement, we would prefer if the user interface remained minimal and simple.
+Building our own technology which would be an extension of the cloud providers' existing technology.
+We will take this personalised solution and build out a business case for deploying on the cloud to help them and it's customers achieve the ultimate in cost and operational efficiency in using cloud computing.
+We intend to build web applications that will collect data from the end users and provide them answers and recommendation that would cater to their needs.
+We will be developing and deploying systems that are built on the following open-source platforms as well as other open source technologies to help build our cloud-based solutions.
+We will be building the tools to scale, test, monitor and optimise the system from the cloud providers. We will also be looking at ways to minimise the amount of time or resources any one service takes by using tools to monitor the use of time or of any system resources or the system of work.
+This will require development of APIs which will help extract and analyse data from the clouds.
+Building an internal Cloud Automation solution that would allow us to collect billing information from our customers and to extract insights from internal business systems based on the customers needs.
+We will be exploring the cost optimizations for services like video streaming or for mobile cloud usage.
+With the ability to take a bill from the Cloud and provide that bill as well as any other available data to the server that will then use optimised solutions.
+One of the key to using cloud solutions for business is to focus on finding ways to reduce the total cost of ownership. Cost is often over-looked due to the importance of scale and flexibility but is just as important as cost in the equation. As a result, we are going to use cutting edge techniques to help make the cost of cloud computing just that much more transparent.
+We will have the capability to analyse the data gathered by OCR, and propose solutions such as auto provisioning, virtual machines, backup, etc.
+We will aim to build tools that would help to make data mining for predictive analysis much more easier and would help take into considerations the future of growth for the organizations.
+We will build tools and support applications that help organizations manage their resources and leverage their existing investments in technology across the cloud.
+We intend to build software in the cloud for cost optimization. It will be highly scalable so we can make changes without any problem without any code changes.
+We are building it as a service to offer on a subscription basis.
+We will work closely with the providers/service providers of cloud and provide them with customized solutions around the need of the organization.
+We would like to have a custom OCR solution based upon AI algorithms we can employ to extract information and provide optimal solutions to manage the cloud systems.
+We will use cloud based services to deploy services to any organization, on any device, from anywhere in the world.
+We intend to build a platform that learns the resource consumption and generate a dynamic and personalized resource consumption profile
+Solutions will consist of integration, monitoring and alerting for all the different resources used in the organization (e.g, data centers, VMS, P2V, VM-to-VM, VMware VMs etc).
+Cloud Cost Optimisation solution will work on public data sources as well as private data sourced from an organizations data repository. The organization may have their own data management system like HANA or SQL or could use other cloud based storage to collect the billing information.
+We will also build integration points that give the customers access to key resources to get optimum performance.
+Using analytics and visualization of data the goal of the project is to provide insight into the real usage of data.
+We will focus on providing scalable systems without any upfront commitments, where we have a proven track record.
+We intend to design and build solutions to help manage our infrastructure during the time of transition and transition of companies.
+We will build the ability to monitor the organization’s use of the cloud and build automation of the process for managing all of the cloud services.
+We want to build solutions as a service using the cloud systems and would deploy on various public clouds such as AWS, Google AWS, Azure, etc.
+We will create solutions that leverage cloud management and monitoring software to enable real-time visibility of cost, productivity and security aspects of cloud systems. These services will be used for managing and optimising cloud-based resources and will provide a holistic, business-orientated approach for resource optimisation.
+We will implement techniques and technologies that can take us in to the long term. Our focus will be at building personalised cloud management.
+We will be building systems that will allow organizations better manage the cost effectively of their cloud service usage.
+The company will provide services to the users. This would include help desk, telephony, web application development, business intelligence solutions etc
+We will be building tools for organizations that can be used to manage their bills from private and public cloud services in real time. Also, the tools will be developed to optimize the usage of cloud services through the billing processes through the use of real-time data.
+We will build applications so that the cloud providers and IT providers can communicate by providing the information they have and the needs of the IT departments. This in turn will reduce costs for the cloud providers as well as improve our users access to cloud services. With a lot of our software having OCR built into the system it will mean users can input the information required to perform some tasks, or retrieve a document or retrieve multiple documents by simply keyed in or typed in the information.
+We will have tools in place that can help better manage the resources and allow better service using public clouds like Rackspace and Amazon AWS.
+Using APIs and billing system it'll be easier for end to be able to build complex system and get the best results.
+We expect to build solutions over-the-air without the need for direct connection with the cloud providers. This will also allow us to build our own services.
+We will build web service that can be used to provide insights into cost management from the perspective of the system users and also by providing solutions to the billers.
+The cost of the solution will be transparent to all the stakeholders. We have come up with a set of functionalities and architecture specifications that are likely to be used by multiple partners.
+We want to help enterprises understand their overall cloud spending cost without having to get access to it.
+We aim to build a SaaS Cloud Cost Optimization platform for organizations to monitor the spending of their cloud vendors. We believe that the cost aspect should be taken care of from the vendors but the overall usage or performance of cloud resources should be a company concern.
+We will be building an OCR based solution where the organization takes control and make use of a personalised solution that provides optimal and tailored solutions for scaling, performance optimisation, optimizing resources and automates complex system maintenance tasks.
+Our cloud offering will include a PaaS, SaaS and also a hybrid cloud offering.
+We will use a database model but not a relational database. It can also be used with other forms like NoSQL.
+There will be several other uses for the data
+We will support the growth of personalised solutions for our customers using public cloud providers or private in house cloud services.
+We intend to build solutions that can use machine learning and AI to optimise both the Cloud Cost savings as well as help more quickly identify and resolve resource issues.
+We will be providing an API that could be used to build personalized solutions.
+We will be building data aggregation tools (like we did with Google App Engine). We will then build a platform for different user centric solutions and we will build an admin console that will be available to all the users from the cloud.
+We will offer all our Cloud Hosting services in a way that allows startups who are just getting started to build their own Cloud infrastructure to scale and meet the challenges of the Cloud.
+We will also be implementing a solution that can collect usage data from customers and provide automatic billing based on their consumption patterns and business needs.
+If the solutions do well or fail, we have the right of usage (ROI) and if we continue to work on it, we can claim a percentage discount, etc. etc. This would also act as a great form of security for our customers.
+When possible this will be able to integrate with many services like the Amazon Web Services.
+We will be solving the use case of how to reduce the cloud use and waste by having an integrated solution that is fully customisable and allow for the automation.
+We will build a system to support the business and their own people, this would be used to extract data from the billing system, analyze it to provide an optimized cloud cost, provide support, and help with resource management.
+The solutions will utilise the cloud as a building block for the organisations by providing the flexibility to create very simple to complex solutions
+We will be deploying solutions that can scale and enhance the efficiency of billing services.
+We will make our products scalable, simple and cost effective without compromising on their value.
+These solutions will be able to provide accurate cost estimates for various solutions being used and to monitor the use of different system resources.
+Our services will also help in reducing the cloud cost including management of the costs as well as the reduction in the cloud provider bills.
+We will be building systems that integrate and enable the use of the new systems as well as building systems that will simplify the use of these systems for users.
+We'll provide web-based interfaces for other agencies such as financial information, travel, insurance, payroll to collect and analyse these data.
+We will be offering services to the public at free level and we will introduce payment methods based on usage and/or by offering additional services including cloud storage, payment processing and more.
+We would also build tools for organizations regarding the use of the cloud and the services required to optimise them.
+We plan to develop a cloud architecture built using OpenStack which focuses on ease of integration and rapid deployment.
+The whole system will need to be highly scalable. To be successful we need to build a system that would be able to handle millions (possibly more) users at the same time.
+An organisation can manage a large number of different cloud services using a central repository that can be accessed as required by the company. We will create an API (application programming interface) that will be integrated into the cloud to provide APIs that can be consumed by the different providers that we intend to utilise.
+We will be building the platforms for our future products on top of this.
+Business models we'll be considering are:
+We will be building systems that help with monitoring services provided by the cloud providers
+We will try our best to deliver solutions to scale to the limits of our systems.
+We will build a self-hosted solution for a small business. This service will use the same idea as the self-hosted solution for a large company. There are a lot of features that can be added to the self-hosted solution to provide even more value to the small companies.
+We intend to create a user login, where user accounts could be linked/unique to a company and their billing data and billing information.
+Our solutions will leverage existing solutions already built for the financial institutions. We will leverage existing products and technology for the billing processing, to offer a more streamlined and secure solution based on the billing system.
+We will be building tools that analyze this data to provide analytics and to allow the user to make better business decisions
+We will be able to collect a lot of detail and make use of a big data solution to give the data needed to build the solution based on the data available.
+We will be designing Cloud based solutions that make usage of cloud resources transparent by providing a uniform interface to access it in an end to end fashion.
+We can't assume that the cloud providers and our IT department(s) will always be on to any cost optimization solution. Therefore, we will design such solutions that have the least amount of risk and maximum benefit and most importantly, can provide a solution that can leverage a hybrid cloud environment.
+We are aiming for 100% automation when building the server/hosted solutions using either cloud providers or an API (if available). We try to take best of both worlds in order to not get bogged down in a single approach.
+We intend to focus on creating software products that would allow cloud management and data acquisition across organizations and different environments.
+We intend to use a mix of OCR and AI algorithms to achieve our goals.
+The systems we build will have different levels of security. The goal is to provide different layers of security to the customers to provide safe services and at the end of the day, only the customers and not the systems are protected. We will manage the security for each of our solutions independently on a go and do the risk mitigation for each customer by the best of our capability.
+Once a solution is built, it will store it and can be shared among individuals or the enterprise, creating the opportunity for sharing information and building trust between them.
+We need to be able to build custom solutions within the company based on the data we’re able to collect.
+We will be offering services that allows the employees to use the services while also having a dashboard that provides a bird's eye view of service utilization and usage trends.
+We will provide tools to be used in the creation of services based on billable data that can be accessed from various services offered on the cloud and make available in a consolidated form so that other organization can consume it to be more informed on the value of the service that they use.
+This would provide our customers the most up to date view of cloud and it's services by building a centralised view with different sources of data and services and allowing the customers to create and manage their own view on cloud.
+The software will utilise the data from an API for extracting information to build custom solutions to manage their resources.
+We will leverage the services, technologies and tools from various resources.
+We would try to build intelligent cloud computing solutions that could manage different resources from a single cloud interface as well as provide multi-cloud management. This would not just extend the cloud service feature to the services as far as I am aware. Currently, there are very few offerings of this type for public clouds.
+We will be creating new systems, services and software based on the data extracted.
+We will be creating a business process that is built based on the data gathered by the cloud and the business processes that are built around it will be made available for other cloud companies to use. Data and processes will be sourced from Public Data bases as well as internal systems.
+We will use the best technology like Python, Django, Spring, Redis, Elasticsearch, SQL.
+We will be using this information to make better decisions about the provisioning of resources for customers and provide them with a better service at the best rate.
+On the other side of the coin we will also build and release a cost optimisation service for public companies.
+We will ensure the billing system is simple and flexible enough to cater to different organisations and allow the cloud providers to make it simpler for them.
+Our product would have the ability to help companies manage the costs of various cloud services. We are not limited to the cloud provider that your company uses but we have the power to provide solutions that span the entire customer journey.
+We aim to help organizations take cost effective and optimal decisions which can be used for future growth and for better customer service.
+We will build tools based on information extracted from our cloud services and will help users gain insight into cloud cost or budget management. Our tools will also help build and manage organizations through their usage of public and private resources.
+We intend to provide an automated way to manage clouds with our data that can be used for creating optimized cost models.
+We intend to make our system available to the public to learn from and contribute to the growing number of organizations looking for better ways to manage their cloud data and also to the organizations who are looking for a way to manage their use of cloud services.
+We will offer a new business model to help the organizations to scale while reducing costs. We will be offering on demand services to customers that are willing to pay more to our new model.
+We plan to provide complete control and solutions to increase the productivity of the organization by helping to create the best configuration possible by allowing them to reduce overall costs.
+We will use a hybrid approach to provide solutions to the client that can be implemented with either IaaS or Managed Service Providers and provide the best of both.
+We will be integrating with billing and accounting information from external systems
+We will be looking at the options for a hybrid/multicurrency model that can be used for all of the organization's transactions.
+We will be building tools that help build an app to use and build a cost optimization model for the organizations.
+We will have the possibility to extract this data from our cloud as well as the data they will provide us to extract. We will also be building systems that gather these data and provide some insights into how we can extract this data with more accuracy and greater efficiency.
+The personalisation technology used could be similar or different.
+We will also develop OCR solutions for use in billing. Our company has been working with Cloud vendors for a while now and have seen how the billing problems are huge with all the different organizations and different types of services they provide. We expect to build OCR for these applications and the other benefits we will provide to a much grater number of customers.
+We intend to use AI technologies to analyse these data as well as external/private API of cloud providers to provide personalised insights to businesses.
+We are working on a SaaS tool to help customers migrate to a data center or service provider they have previously used. Our SaaS product will have a number of components including:
+We intend to build solutions that allow us to have better control over individual cloud resource usage based on the various customer profiles. This, in turn, will help in better usage of resources for a better result across organizations.
+This will also involve working on the idea of automated recommendations, analysis and control, which will help to optimize the usage of cloud resources when the need for a change arise.
+We would also like to enable customers to deploy the system using APIs with API Gateway, for data storage, security, monitoring etc., this would require to develop a system that could read the incoming data and pass it to the service provider, and the provider then does that to the customer who is the client of the service (cloud), for e.g. the cloud provider manages different zones on servers depending on the client and their subscription plan. Then the service provider should also maintain the records of the usage
+We will have to build an architecture for the management and data extraction that will ensure data integrity, data protection, and performance.
+We will be building a system that will provide the best quality and best user experience for users.
+Data will be collected from the cloud providers. We will collect the data of specific customers and analyse it using advanced statistical algorithms. With this data we can recommend better solutions for customers.
+Cloud services must be much smarter in terms of understanding the usage patterns and not just the total used by the organisation. Cloud providers need to understand the value added by the IT staff and then price the services to reflect the usage to them.
+We intend to build systems that can automate the processes that would normally take multiple resources to complete just to get at the right information and produce better information output.
+We are building systems where end points (devices) act as nodes and consume resources from the cloud. The cost (and complexity) of the system is minimised and the costs from the public market as well as from the internal source are managed by our solution. We are also using smart algorithm to provide better usage for resources.
+There are very few products that provide the ability to help run a cloud hosted business.
+We are also building software based solutions for better management of the resource as well as for provision of resources to meet the needs of the company in terms of scale, performance, security and security for critical data.
+The solutions needed can be built using a combination of AWS, Azure and other cloud services and it can be hosted by us.
+We will enable organizations to gain insights into their environment from which they can learn to adapt their usage practices and services in order to more efficiently run on the cloud.
+We will be building software that is free and open-source to allow others to contribute and improve the product.// SPDX-License-Identifier: GPL-2.0-only
+We will provide Cloud Computing services to a large number of companies without spending a single dollar.
+We plan to provide a service that would help organizations to take control of the cloud costs, this would be through a software that can perform cost optimisation.
+We will enable organizations to have a better understanding and management of their cloud operations, by providing more insight in this field.
+We intend to build a platform that supports the entire workflow and allows companies to create their own custom services. This platform would have the ability to help companies optimize and reduce resources by providing a way to automate the processes while allowing the user to keep the freedom to choose whatever data and billing sources they prefer. This could include data and billing that are sourced from multiple sources including external providers.
+We will build the whole product. This starts with the data extraction with OCR. We will build tools for analyzing this data and build the software for cloud management and the systems that operate the services and the business logic with custom scripts.
+In time our company could have the capability to build and integrate solutions for other enterprises such as eCommerce companies, banks and other large businesses.
+This would be built on top of existing systems and processes that would ensure maximum efficiency.
+We intend to use a combination of the data obtained from public sources (GitHub, DockerHub, etc) as well as bill data from other organizations.
+We will have the capability to provide insight to business to business customers based on their cloud usage. This will leverage the data from the bill tracking solution we deliver to give more intelligent and personalized reports for the customers.
+Our service providers will be able to offer our system that integrates with other organizations services
+Our solutions will allow a cloud provider to add services, features etc to its account such as additional users and more expensive service type etc. But we will also work with a provider to ensure that the pricing offered does not compromise data privacy or security.
+We need to solve on the basis of where we can and cannot use the cloud, what's the cheapest way to deploy, which models will help us reach our goal of minimizing costs, what are all the risks involved in using the cloud in the end and how we can control those risks proactively.
+We are also building software solutions that can help the companies, based on their operational requirements to monitor and operate their cloud services effectively and efficiently.
+All this data will be extracted from various sources that are either external to the organization (cloud providers and APIs) or internal to the organization (data coming from systems where the data are shared by the organization).
+We may have to work towards setting up a hybrid infrastructure between public cloud providers and private cloud providers
+We will focus on different types of the use cases of the Cloud providers, the way to consume the information they provide and also the ways to integrate and present it to different stakeholders.
+This platform would be deployed using a combination of our own and 3rd parties components.
+We intend to create new use cases for the data collected which could create new business opportunities for the organization which would lead to cost savings both by reducing overheads as well as creating more efficiencies.
+We intend to build a platform that can provide all the data that the cloud requires on a real time basis and can scale in an effective manner.
+Our goal is to reduce the cost of cloud services for each organization by a maximum of 50
+We are planning to build a platform on which these solutions can be built. This platform will be used to collect the data so we can get a more accurate picture of the usage and costs of the cloud services/service providers. Based on this data we can provide the solution based on the data.
+We will also work with the organizations to build out a complete ERP for the cloud and the services and allow for self-service integration.
+We are planning on building a cloud based ERP so businesses can manage their own systems while also using the Cloud Services.This will help in the provisioning of services and also allow organizations to use different services like ERP and ERP based billing (if required).
+We want to build systems that enable organizations to not directly manage the cloud but also to automate a lot of the processes. For example, organizations must be able to monitor cost over period of time, automatically alert with the cost if there is a threshold passed but at a low cost, or automatically remove resources when the threshold is not met.
+We will be building software to create an application-layer infrastructure that interacts with the data stored inside the cloud-computing systems, providing a complete picture of the data stored in them. This will enable the organizations to make better use of the cloud services. The tools will then provide a single interface to integrate with other systems to provide seamless interactions.
+We will be building a platform to help organizations manage the cloud, extract their bills, manage their cloud services and provide personalised data as well.
+We intend to provide end to end solutions that would help improve on the efficiency and effectiveness of the company using the cloud.
+To be honest, we were aware of things like AWS Lambda. We decided to build it only after having a conversation with Paul Buchsbaum about his AWS projects while talking to the Sales team of a previous cloud services company that we helped develop.
+It will be an SaaS model based on open source software which will also include an API(s) interface that will provide access and integration with other external systems.
+We want to leverage the customer data and intelligence by having tools for identifying threats and opportunities, as well as providing a platform where organizations can store their data and use it as a competitive advantage against the competition.
+We will build software that automates the life-cycle of the cloud with the intent of taking away all manual work.
+We intend to build solutions that will take into account data that has been aggregated from multiple cloud providers.
+We will be developing an analytics tool that would use public sources such as Wikipedia to find information that is of interest for any organization. Using a few of these open sources and make the best solutions based on the information that has been made available from all different cloud companies (Amazon, Microsoft, Rackspace, Softlayer).
+The services offered have to be highly efficient and require low latency to provide the optimal results for our customers, and we will be building the data layers for this purpose.
+Solutions would be built around the use of AI in order to reduce both costs and potential customer headaches.
+We plan to develop a service for making the data management efficient and more useful.
+We intend to provide tools to help people learn about how to manage the usage of cloud services and how to get more value out of the cloud by controlling the resources. We would provide solutions to help managers understand and manage resources such as VMs, Pods, Infrastructure, etc.
+We will provide an in-house system that will take care of billing from all the companies that we work with. It would work on the OCR services mentioned in 1 & 2 above and will work as part as billing and management platform that will help improve the overall operation of the cloud platform.
+We intend to build services/API to scale and automate the management of the system by using AI in an automated manner to improve services and automation.
+We are not intending to provide an individual cloud bill to an organization, but rather a platform which pulls the data from multiple cloud providers and puts it together in a single user friendly interface. We will provide one cloud billing API and API's for individual organisations that will help in managing data and operations through the use of different billing features, like "best efforts" vs "unbilled hours" billing, etc.
+We intend to build an application that will analyse the data obtained from public sources as well as from the billing and other information from the organizations and present the information in a format that is useful and meaningful.
+We will build a system that will have a unified view of costs.
+We intend to use open APIs and open source software to provide open sourced cloud services. The idea is that there would be a better way the open source can be used to provide best practice Cloud solutions for organizations and they would not mind if we used the open source software with their data.
+We will build systems that provide a simple integration to various systems to help manage the use of services and use resources.
+We will use open source technologies and solutions but in combination with the cloud to provide a cost effective means to managing our systems by sharing the cost.
+We also want to build a product that helps to optimize the use of resources.
+Also build a management system that can provide real time monitoring and support on a central location that would help any company with any service. We will be focusing on billing, resource usage, storage and security issues that we will be able to take care to optimize as much possible and be as transparent as possible.
+There need to come solutions to tackle the problems that can be associated with the billing or resource usage, for example:
+We will try to work on making the most out of what is available in the cloud, which will aid in lowering the cost of operation of the entire system.
+We intend to build a system which can be extended to work with data other than billing data such as usage reports, web data and social media feedback.
+We will also keep on integrating with new APIs and services in the future
+We want to build a tool that would help identify what are the optimum systems that will be used in a given set of scenarios to deliver the most cost effective and maintainable business service.
+We will use this data to inform about the costs that the user is incurring by using the cloud.
+The cloud providers will not be the problem and the only solution for a company like this would be internal control/compliance.
+We will be building a monitoring system where organizations can monitor their cloud data flow and take proactive actions when a problem arises.
+We intend to build systems that automatically scale and configure virtual machines when needed.
+By using the personalised algorithms provided by the cloud providers, our team will also be able to suggest resources to make the best of it, if the billing systems doesn't already allow for them.
+Our products are designed for both small and large enterprises who would like to have flexible options to access the cloud.
+We will be offering a product with a free trial to show interest in the product.
+Cloud computing is a set of tools used to run programs, which are then managed using a set of APIs. It is like an in house IT department working to optimize business operations by running applications on the cloud;
+We are also working on a system that would allow individual users to control how their cloud service is consumed.
+We are building a solution where people can take a picture or video of their desktop or laptop and the system analyzes the picture and converts it to text without the need to leave the computer to scan everything for you. This would allow the management of complex solutions to be much easier and more efficient.
+We also intend to build systems that can scale systems to meet ever growing demands from the cloud providers' clients.
+We intend to build a web-service and data processing center that will connect our systems with the third-party cloud providers for billing and other data-points and provide end-to-end OCR.
+We will be building an API where a user will be able to create a service call (service) and a user of the service will then be able to create a job of the given service in order to meet their various goals.
+We will try to help organizations to use our solutions while saving the companies a massive amount of money that can otherwise come to be.
+We will be providing custom billing and cost management solutions to customers using the OCR and extractive methods that we are planning with third parties.
+Building an application that is scalable
+Services and resources required could vary on the size and other characteristics or characteristics of the customers.
+We will look to build the best and most user-friendly tool for the organisations that makes their life convenient, easy, and cost competitive with cost optimisation offered by cloud.
+We need to have a platform that allows us to manage the entire application lifecycle, from creation to disposal and from analysis to the actual usage and costs of a particular cloud. This should also allow us to easily add new cloud services with just adding another API.
+We will be building an API platform where we will be able to build applications using different languages, frameworks or technology/solutions. We can leverage APIs to enable our customers to leverage some of the offerings that we will give them from a software, consulting or other service perspective. We will not be using any of the standard open source options as these will be built as our own customisations
+In this case, we are building the solution for the IT department of an organization to manage their cloud services.
+e will provide a toolkit of modules which together will allow easy integration of any of these with a wide range of other software platforms.
+We will develop intelligent solutions to monitor the resource consumption and costs associated with the different business processes and offer relevant recommendations based on the information gathered.
+The solution would be customized for specific organizations. It will be built around an AI platform that will understand every business use case, will suggest how to use the most efficient resources so as to avoid wasted spend and will keep the costs to the best possible levels.
+We intend to have tools to improve the way we consume the resources being used in the cloud, either directly or indirectly.
+We will develop and deploy a technology that could be used by other companies to leverage the cloud and its services.
+We will also try to build a set of tools that allow the organizations to monitor costs, costs-to-performance ratios and other metrics within their accounts.
+We intend to build tools that can help in optimising cloud budgets for particular projects by providing a cost/risk assessment and a cost/benefit analysis.
+We intend to use the cloud to run the systems that do all the real data processing (Data Science) and some of the more mundane stuff like provision and management.
+We will be building solutions to the biggest problems in the corporate world that are being left unsolved by traditional IT.
+We would do all of this under the assumption that the business doesn't need all of the information but rather just a portion of it and would be very cost effective.
+We are going to enable the development of custom dashboards to make the entire process much more simpler and cost effective.
+We will provide a system using the billing information to enable the organization to create their own personalised billing solutions.
+We have also started looking for the solutions to the security issue when it comes to accessing the services on the cloud.
+We will be using data mining and big data technologies to provide real-time decision support to administrators and other staff.
+We will be building tools and frameworks to help build cloud management solutions. These tools and frameworks would act the part of cloud management offering for different companies.
+We will be providing solutions for customers who wish to pay for their cloud expenses on a per machine and per usage basis without incurring unnecessary overhead costs and with minimum time and resource utilization.
+Also we will use the cloud as a testbed for experimenting with solutions or applications not typically deployed in the public cloud. We will build solutions from the idea that if we can get better information from the billing, services management and customer usage (and hopefully eliminate some duplication) we will have a much easier time managing cloud budgets.
+This would be done using the cloud service providers like AWS or Microsoft Azure and we will use that information to build systems that have predictive capabilities. For example, it would provide the ability to predict costs based on information that is available in the cloud.
+We are using a wide group of technologies and tools including:
+There are many other solutions that could be used but in this article we are only thinking in general terms but in a long term view.
+We will look to solve business problems by creating a software to solve the issues. This should give organizations a competitive advantage and lead to more successful business outcomes.
+We intend to build system that would work as an SaaS (Software as a Service) that can be subscribed to by organizations to manage the cost optimisations in their cloud operations
+We understand that the cloud providers are making in-roads and integrating with current business systems. We need to be there with this. Some examples are Salesforce CRM, Salesforce Automation and Oracle's database integration (if integrated with Oracle).
+We intend to improve the visibility, measurement and control over costs by using a unified platform
+We want to integrate different services of Azure/Cloud providers that allow you to build self-serve applications (we do not intend to do any server management/server side provisioning on our platform).
+With this approach, we expect to manage multiple clouds for the different users on a single system, providing more flexible and powerful cloud management options for the user.
+Building analytics and other tools to help enterprises to build business cases for the appropriate pricing structure at particular stages of the cloud spend and also the time to maturity stage of a cloud solution.
+We will be partnering with partners like SAP, QNAP, Softlayer and others to build our SaaS and web application for organizations in India to be used to scale their business while lowering the costs.
+We intend to provide real time suggestions on how to improve resource or workload efficiency.
+The solution is built using a highly configurable language-YAML and Python with data structures and algorithms built for data storage.
+We will build solutions to help cloud resource use by leveraging the data we collect from customer to help them use their resources in a better wayQ:
+We aim to provide a simple interface that can allow easy access to the various services the cloud.
+We intend to build systems that can scale to be more economical. We want this to be both automatic and user friendly, something that allows us to get best out of the system in terms of the information, but also making changes to adjust the solution as needed.
+We would be building in a way where the individual employees and other employees of the organization can use the products and services.
+This would create an end-to-end solution for building, deploying and integrating the solution for multiple organizations. This would help organizations manage their cloud services efficiently with little to no downtime and costs.
+We want to take better advantage of the cloud by making cloud use transparent to the businesses using them. Cloud is a great platform as it allows organizations to focus on key business functions while the cloud providers take care of the back-end of the delivery.
+We will be using the best and the state of the art systems to build effective cloud technologies.
+We want to build a platform that can be used from small business to medium sized business to very heavy weight enterprise. The solution we are building can leverage the infrastructure built in the cloud or can it be as stand alone as per business need by connecting it to the public services and services such as AWS.
+We intend to work closely with our customers in an open market, as well as with some of the biggest players in the business in an efficient open market.
+We will provide a simple, accessible and effective API infrastructure, so that anyone around the world can use the service.
+This will come with a built in analytics offering so that the client may generate customized reports either to gain insight on their services use.
+We can now leverage on OCR technology. This will allow us to better manage our cloud resources in a way that we never before used.
+We will be building a software that provides automated reporting & analysis of cloud spend in organisations, allowing administrators to easily and quickly get a grip on cloud spend and optimising costs.
+We will provide a one to one management, allowing the users access the information from multiple sources and manage the resources. This would provide a better end-user experience, eliminating unnecessary spending and duplication.
+We are not developing any applications in the cloud but build services to use cloud resources.
+We are looking for a company that has the experience in building complex solutions with high security and availability (HA).
+We intend to build systems that combine multiple technologies with different strengths to improve the whole process of cloud services.
+We intend to build a self service self healing platform for the company so it can manage its cloud resources, billing, etc better.
+We intend to work with a partner who will develop different pricing models to allow us to charge different rates to different organizations for managing their resources within the resources available within the cloud using our platform
+We will build solutions that use data and technology from private and public clouds, as well as use it to build solutions for the businesses to ensure they reach their customers and users.
+We will be looking at the best practices of using cloud solutions and making sure we build them. This will include best practises of the best practices that will help us improve with the technology.
+We will look to build the solutions by using the open-source solutions and standards/technology so that it can help in scaling the solutions.
+We will be building a single platform for the entire company with the aim to make it easy to consume billing data from multiple cloud providers and access other details from other sources as well.
+We plan to use the latest and most efficient tools and techniques, which can improve our efficiency and reduce the cost of building new things like OCR or more optimal cost-effective solutions based on the billing information available.
+We will have a real time view for the operations that are taking place and use these insights to drive the processes.
+We will be building billing and subscription API for public cloud providers.
+We intend to develop an API that will integrate different cloud providers, and help manage the consumption from a number of sources and at large scale across the organization to make any service fully managed.
+Once the above is set up, the company will try to get as many resources as possible to outgrow the current and provide more effective solutions.
+We want to build a company culture built around data science
+We will build solutions with other cloud-based solutions as well as building natively for the cloud platform that we intend to use and can help further the overall enterprise as a whole.
+We will provide a platform that connects the public and private clouds and a framework to build solutions on top of that.
+Use of the technologies to provide the right service to the right person at the right cost.
+We intend to provide a new level of service, which will cater to the needs of the various business/organizations.
+At the same time we will be offering SaaS based systems that will enable to integrate with billing and personalization modules.
+Cloud is being integrated with other software such as mobile devices, printers and so on but the data to be used is not available until it is needed.
+It would be a big advantage if we can provide solutions that will automatically adjust on the basis of the data obtained from the cloud and provide optimal solutions for the organization.
+We have decided to pursue a hybrid cloud model, leveraging both on-premises and public cloud capabilities to make the best use of each.
+We will have the ability to build more custom services than what's available on the market.
+We will create custom and bespoke services that meet our specific requests.
+Our aim is to build data-driven solution to help enterprises to get the cloud working the way it should.
+We will have a robust analytics tool that can work across the cloud infrastructure and other systems and provide insights about the business/resources/system performance / trends/etc. Using a few key performance indicators (KPIs) we can track over a period of a few months how the resources are performing at any given point in time.
+We will build systems that can scale to handle more than 100,000 calls/sec. It means the company as a whole can scale. The company itself won't do it and we will make it happen.
+We will try to provide some services that help reduce the costs and improve cloud resources as much as possible.
+The focus would be on systems that are scalable, on-demand or have some sort of auto-scaling feature, that is being built on top of a database where data has been extracted on the backend.
+We would build solutions for enterprises that are looking to use a combination of public data sources with on the business' end for business analysis and automation of processes.
+We will provide APIs that allow you to interact with our software in order to obtain your bill or information.
+We intend to ensure that we get a complete picture as to how organizations are billing the cloud in terms of bandwidth, security, and the like.
+We will be able to build out these solutions in a scalable way, not just with a few individual systems like traditional cloud companies but with many individual systems like the cloud providers.
+We will be able to get answers to some questions when looking at the costs of using the cloud, such as:
+We will build a personalised web based solution for different business functions
+We will use the services of data warehouses, artificial intelligence, machine learning, and neural networks to reduce the cost of managing the cloud services that companies have to offer.
+Our solutions will be able to provide a holistic solution by integrating the public and private data streams.
+We will be looking to build solutions like 'Cloud to Server' that can help organizations achieve cost management on top of cloud hosting solutions and with OCR provided data extraction.
+e will be writing scripts to be put into the cloud management systems and will use OCR to extract information from the billing information generated at their end. This will be done in such a way that any information used to decide if the resource needs to be accessed or not.
+We will be building systems that utilise the most appropriate software or hardware for each organization to consume cloud services.
+Also we intend to use data to build a model so that we can provide better guidance to our clients to manage their cloud costs.
+We will be doing a lot of research on new cloud platforms and new platforms to integrate them with the applications built in the cloud.
+Our company will be able to work in real time with the customers and use the technologies at hand to build and design various software solutions that can assist the customers on cloud services.
+We will be building systems that support usage based billing. This means that organizations can not only manage their cloud usage and bills, but also better understand their usage and provide feedback to the cloud provider.
+The goal of this project is to help the clients improve the profitability of their cloud by providing a service that can help them in their decision of selecting a cloud platform.
+We are planning to get a lot of information from the cloud providers about the resources and billing. We will then apply it on the system and we will give the end-user the power to access the data about the resources and billing system.
+We intend to use data from a single location to provide a single view which will contain all relevant details.
+We intend to build an environment where anyone can build customised solutions for their clients. The solution can be shared, or any single client could customise solutions for different clients.
+Our goal will be to build tools that can help organizations better understand and optimise the costs and services of the cloud (and the billing) to maximize return on investment.
+We will also be writing custom cloud software to help manage certain types of environments that may not have ready made tools.
+The best case would be the system would provide end to end resource management solutions of the cloud providers for better control of the cloud costs or bill processing and OCR solutions could be used to extract information from the billing systems and allow better control over the cloud cost.
+We will be working on solving the problem of data security using the resources available from cloud.
+We provide an integration API for the billing process, that allows the integration process of billing and data sharing. This api can provide a connection for the creation of all the systems and services within the IT infrastructure.
+We will have a system that provides a service through which enterprises will be able to find out what are the requirements of the cloud and then they can build strategies and create services that conform to it.
+We intend to build systems that extract the information and present it in a format to the end users that makes sense.
+We will create an open source system for the industry as a whole so that you end-users can make use of the data or use out own proprietary software.
+The aim of the product is to improve the way business is managed from the cloud side.
+We will build dashboards to aggregate the information for better analysis and understanding across the organization as you would expect any business to do.
+We will be in the process of building a software that can be used to analyse this information in a systematic manner.
+We will be a global company in which we have business units operating in different locations that have varying levels of complexity as compared to the systems in its HQ.
+We intend to leverage the technologies available, in this case AWS, Google, Microsoft, Open Stack or other that will be used for the solution.
+We will be applying OCR to the bill-in-charge for all resources and providing more efficient/efficient solutions for our users.
+We would build applications in the cloud for our customers' internal use, like for internal helpdesk, project management application, and so on.
+We are planning to provide tools that can help us predict the cloud costs for any new or existing cloud system. We would also be using this knowledge to make better and more informed decisions in choosing cloud service.
+Our systems would have the ability to manage the organization’s critical resources by detecting if they are being consumed by unauthorized usage. Our goal would of course be to provide these kinds of personalised solutions to organizations.
+The systems will provide solutions for saving time and money on resource management. By leveraging the cloud services, we will increase the quality of customer service and provide solutions that could ultimately reduce operational costs.
+We will be building tools for business to business usage. For example, we can generate a bill for a particular company for a period of time or can provide recommendations on the types of resources. Or else can perform analysis on a company such as: analyze total cost of ownership for the company, find best and worst customers, analyze the amount of money spent per month to reach targets, etc.
+We will develop methods to automate our processes for generating reports and providing analytics, as well as providing various other features such as archiving and storage as part of our solutions for a business or organizations.
+We can build a way to integrate our solutions with SaaS and PaaS providers as well as build solutions to manage and control the performance and scale of our cloud systems.
+We intend to design services that can scale to a higher number without having to invest in expensive solutions.
+We will be building a service dashboard that can be used to quickly optimize the use of resources and identify the maximum value of the cloud deployment.
+We can also build systems that can be shared or "partitioned" based on user needs and services.
+We will be building cloud computing solutions for small scale enterprise.
+This will likely need to go beyond data management and support to help business decision making by building software that not only makes use of cloud infrastructure on demand but can also be used to help better manage the various services provided by the cloud.
+We will use this data to create and optimise algorithms for cloud resources usage. We would build the systems and provide a service to improve IT efficiencies and optimizes costs. These would be based on the use of predictive algorithms to provide cost optimised and faster and more profitable solutions.
+The end goal is to build and operate the system that can be called upon to automatically optimize the resources in the cloud to the best of their abilities. It will extract the best possible information from the data and use the information to optimize future resources accordingly.
+We will be looking at the different types we can use for the system, from virtualisation and open source tools like Chef to complex enterprise systems like SAP etc.
+We will leverage API based billing to provide better cost tracking, analysis and decision making.
+We will enable organizations to set up different levels of security for each person inside their organisation and will provide them with different capabilities depending on the security level they choose in their organization.
+We would like to build infrastructure that can handle the heavy operations demanded by the cloud services that can be scaled at a very high level and with less complexity.
+We will be using machine learning and analytics for data collection
+We will set up various resources for each organization we work with.
+We will be helping IT departments to use cloud services to reduce costs and cut out the overheads in their infrastructure like servers, software, etc
+We will be making a new feature which will be called “Auto-Scaling”. It will be used to ensure that there is always enough resources in the cloud and our system can handle unexpected spikes in demand.
+We will provide solutions for multiple organization by making use of the internal system structure to get the information from multiple organizations.
+For billing purposes, we will need to develop a service to be integrated with payment service in all the major cloud providers to allow for payment management of different cloud services.
+We intend to build an environment where organizations can use a centralized dashboard to monitor the usage of resources as well as the usage of the data sources.
+We will be building software that has full control over the cloud resource usage.
+This will allow the customer to track their usage/ cost profile per person/group separately instead of the current one person profile per customer
+We will be offering solutions where organizations will be able to see which users are creating heavy traffic in their environments.
+For data access we will provide either a direct access (no server required) or in some cases, an access using an authenticated proxy on the cloud provider's public servers.
+We are a small startup with limited development resources. So most of the tasks will be outsourced to other contractors. This will further reduce the burden on us.
+We want to improve operational efficiency within the organization. We will use the gathered data from cloud cost optimisation to help decide the appropriate utilization of resources for the business.
+We intend to work toward solutions that could offer personalized security solutions (PIS) where it was possible. This means we will use all the security methods (security rules) and tools available in the platform, so solutions would change dynamically as they became important.
+We want to create a system which can be deployed as a service for both companies and non-company users.
+Our solution will be deployed in to different phases as per the need.
+e intend to use machine learning (ML), and we are willing to spend hours of our time and effort on this effort in order to maximize what we can get from our cloud provider.
+We will not be building infrastructure on top of the cloud. The products we build will rely on the cloud services and the data that is stored. Our products will not be dependent on cloud infrastructure, they will be based on the infrastructure we make provision for.
+We will build tools to manage workloads more efficiently and effectively using data derived from cloud platforms and other data sources.
+We intend to build a cloud management solution that can optimally use the resources in the cloud and provide value to the organizations.
+We will provide OCR solutions for all the billing vendors and will provide OCR solutions for the users to access information about billing and other relevant details.
+We will build systems that use a number of different technologies to reduce cost. In that particular scenario we will be able to take the benefit of services like those offered by a shared resource pool like Amazon Web Services for example.
+It will be built using a common language for each data and service that can be consumed by each different organization or business that is trying to manage cloud.
+We want to build a tool in which the organization will be able to take advantage of this personalised service with the objective of maximising the use of resources that we are able to provision.
+We will be building platforms or systems that can provide automated solutions from data sources and use that to provide real time management of cloud resources and systems.
+This will allow us not only to optimise the resources but also to enable automation.
+As we do build these solutions we will provide use OCR technology to identify the solutions that are best suited for your organizations.
+We intend to provide a self-service portal that connects cloud consumption billing information or information about any company and provides relevant insights around costs and performance. This would include providing recommendations or information about how cloud costs can be better managed.
+The idea is to enable cost efficient cloud solutions for companies all over the world, and make that possible for the ones with the lowest amount of budget. This is an exciting time and I hope to hear back from you :)
+We will also do some market research for different usage for the cloud services.
+We will be helping the clients solve a few major problems like the following:
+We would like to develop an infrastructure of multiple servers that would act as a proxy server between providers and organizations (using the information collected from the systems).
+As a Cloud provider we will provide a solution that can generate and monitor Cloud usage for the companies or for any other IT company having access to the same cloud service providers.
+We will be developing technologies that allow us to create a real time dashboard for each service which can generate new insights and help decision making process.
+We would want to build a marketplace for all the organizations looking to manage their cloud services and get paid by the cloud providers; and to also manage the security of their cloud services by using the data from the API or through OCR methods. Also, make all the data available for analysis.
+We would like to make sure that the tools we build can be used to create other tools, services, and processes that would help to build a much better cloud service for a given organization.
+We intend to offer solutions to organizations on subscription basis where the user would need to have a minimum of 2 - 3 users in order to make the service work. Also we will be offering pay per use and pay per use per month options on these solutions. You will also be paying a small monthly subscription in return for a single use
+Each organization is unique requiring their own solutions be built with particular needs they have.
+We are developing a platform to take in the billing data and extract information that can be used in a number of ways to manage the resources.
+We will be developing new tools to help improve the cost management and monitoring of cloud computing.
+We will use artificial intelligence and machine learning methods to enhance the quality of our cloud services and enhance the customer response time.
+We will be building SaaS services that will be hosted in the cloud and will be able to consume data from various sources as and when required. We will have an API that is provided for our use to pull relevant data and information from the cloud.
+We will provide software development & testing solutions in the form of software releases with different features & functionality.
+We will develop software solutions that are cloud-first while not being designed (or not ready) to provide a cloud service. Instead we design solutions that are cloud first and then provide the implementation.
+We will be building systems that enable us to generate accurate predictions of resource consumption and costs as compared to an actual bill through our solution using a number of factors such as user profile, location/network, time of use etc.
+We are going to develop a cloud management solution that is going to enable business efficiency, by keeping a check on the expenditure when you run and/or develop new cloud solutions.
+This will create value for both the companies who consume the billing
+We will be building tools for organizations to manage their resources in effective ways. We believe that there is a need to build automated solutions that can be used by all the employees and for different functions.
+We also hope to design systems where these organisations can share and exchange their knowledge and best practices with other organization and build ecosystems around them. As some of these knowledge can provide the competitive edge to the cloud and cloud vendors.
+We will enable a 'personal cloud' service which is hosted from any cloud provider or even one's own premises and be able to control access to multiple cloud environments across multiple public and private clouds.
+We will make it possible to measure and track the performance of our products and services to create accurate and actionable insights while using cloud services.
+To manage costs at an organization and its cloud computing contracts we think of an API-based model, so organizations can use our platform to manage their services through the APIs provided by the platform and generate reports for them.
+We also intend to create models of cloud cost optimization models and also to optimize these models into the real life solution based on the actual data we collect about a particular business.
+We are intending to create solutions that would analyse billing data from public, private as well as internal sources for determining billable resources. This would be an ongoing process of analysing, extracting and categorising the data.
+We will be using various Machine Learning (or AI) models to understand the billing information using a variety of data sources such as API etc. to derive a better insight about how systems are being used by the organizations.
+The data we will collect can be used for developing internal systems that are then used to improve the services that the company provide to its clients.
+We intend to build tools to help businesses to know what and how many resources they have in place for different use cases like storage, compute, networks.
+We will be building cloud based apps and use OCR (Optical Character Recognition) to extract necessary information and also build these apps
+We aspire to make the products/services used by the customer more transparent and user friendly.
+We will be providing use OCR to extract data from different public APIs that companies can provide and use for various business and social usage. We intend to build a custom, fully searchable, knowledge base system using various public datasources to provide to our customers. We will then present this data on our portal with the ability to drill down and discover more specific information.
+We are intending to help them in terms of cost optimization and optimise the utilisation of resources that they want to acquire.
+We would be building enterprise solutions that will help the organization better manage their cloud system from the start and also offer them more options to manage that service.
+We have plans to provide software to integrate with the billing system and OCR system of the cloud providers and provide solutions that would help to reduce cloud-related costs.
+We are into helping businesses to better scale up their cloud offerings and making them more efficient. This would be achieved through a complete cloud management service using APIs, OCR and data from the billing data collected and analyzed.
+We will build solutions to automate resource management for the services with specific user needs.
+Each organization should have a minimum set of cloud cost management tools that would help better manage their cloud usage from billing and payment to cost reporting and optimisation.
+We will develop cost tools that let you compare the cost of using different services to manage a particular cloud application and help you set-up plans to manage them better.
+In this solution, we will develop a system that enables employees to pay for the resources consumed, and the cost based upon the time each resource is used.
+The software can have some sort of visual feedback (dashboards) as to how your services are consuming your resources. This would be built on a common framework so as to help others in the organization.
+We will support the billing process using OCR, OTR and the system will allow the customer to customize the way information and services are being received and provided and provide the usage data (number of units consumed, types of services consumed, billing and other data extracted).
+We will be using the same methodology that powers the services on public services and cloud providers. The difference is that we intend to build something that can be used by many other organizations and build custom services for specific organizations.
+We will build cost models to enable different vendors to optimise their cloud strategy. These models will enable the right vendors to buy at the best prices for the right services.
+We can provide a tool for the organization to better monitor and report on cost savings.
+We intend to build a platform to make things easier for the cloud administrator/accountants in case of cloud failures, providing a central location to track and manage all the cloud resources from all the companies that are part of the project. In the long term, we will build and host the solutions using open source software.
+Our solution will enable the enterprises to deploy solutions that would enable them to save a lot on the computing and storage costs provided by cloud providers.
+Using this data, we can help organizations in improving the value of the cloud services provided to them through customisation of their solutions and help in better manage both in-house as well as cloud-based resources.
+We might be building a solution that gathers all the OCR data and provide it to different organizations to use it as they wish.
+The aim is to make our customers happy and increase their loyalty to our company.
+Cost optimisation is an enabler in helping users manage their cloud costs and budgets.
+We will be building the infrastructure to support various cloud solutions for better management of the cloud
+We are hoping to offer some type of billing data that can be used for building billing optimisation and revenue management systems.
+We will be using API providers in our product to help provide faster deployment, easier development and easier integration with existing systems. Some of these providers will be free, some of them will have additional features and costs based on the number of resources being scaled.
+We will also build a system that allows a cloud provider to offer cheaper costs for the individual customer by making use of their own systems and APIs to build a system that could allow organisations to use their own systems and APIs to obtain information using their personal user identifiers such as an email address or a postal code instead of using external providers that charge extra for the extra information to help solve a problem.
+We will also use some of the tools and technologies based on machine learning including the following: Amazon Rekognition, Amazon Kms, Amazon Athena, Amazon Redshift, Amazon Lambda and some AI (machine learning based on text data).
+Using open-source software such as GSuite, Zuul and Puppet we will be able to build solutions that take in the data from APIs and provide use OCR (Optical Character Recognition) to extract information from the data and build useful solutions.
+We will be using technology like APIs, Open Source Software, Google Cloud Platform, Elastic search. etc to help build systems that are smarter and optimised to manage the cloud.
+When building this, there should be two kinds of solution, i.e. a cloud-agnostic one that can access any service provided by the cloud providers and an on-premise solution with a better interface and features. The reason is that the cloud cloud providers will likely have much more services that make managing information challenging.
+We will provide solutions that use and integrate with existing cloud systems.
+We will be deploying OCR systems that are ready to use and that are built using the above technology. After deployment, we will give customers access to a single OCR solution designed exclusively for their usage model. This solution can be re-used from one customer to another.
+We would do this by building on our existing infrastructure and leveraging existing open-source components to work within the cloud environment to do the above mentioned tasks.
+We will build software architecture and data-driven services for billing (such as data aggregation from OCR and data mining) and for user profiling (such as user information from open source information sources and business intelligence software).
+We intend to build systems using the AWS pricing engine that would give us the options to use AWS to build a large part of our systems. We know AWS pricing and can change from an hourly rate to a fixed cost for most workloads.
+An important factor that cannot be predicted yet is the rate of growth of cloud computing technology. This means that our products and solutions would require to be scalable at the same time.
+We intend on building our own cloud services that are scalable and easily manageable to provide high quality solutions at very high efficiencies.
+We will offer best of breed in the market products and solutions to help our clients achieve their financial objectives as they look to improve their efficiency from their cloud infrastructure.
+We are focusing on the following for our cloud solutions
+We will be leveraging public data sources to find out if there is a cost that can be mitigated by optimizing the resources utilization and providing insights to the organizations to reduce the bill amount.
+We will be a hybrid and in the long run, we will be moving the whole architecture onto premise.
+We will build solutions using APIs and will use this to help organizations and individuals in different ways.
+This would be a real time monitoring system to help monitor cloud services that would make it possible to react better.
+The solution will offer end to end solutions where end to end billing can be managed and it's services can be managed.
+We will be building systems that can be deployed on a cloud as per the bill and manage all instances by just one system.
+We intend to work on bringing out high definition 3D images of objects (like your company logo or anything else you provide) which we then can use to build models for rendering in other 3D modeling programs.
+We intend to use a hybrid model, where we will have a data driven model, that is not necessarily on-premise as well as using the cloud on an hourly basis.
+We intend to build solutions using machine learning and AI to help provide better analytics for determining if the best resource is available.
+We intend to build self service portals so that users can control their own security, infrastructure and other resources in the cloud or elsewhere.
+We intend to develop analytics solutions based on the real time data available from the cloud systems.
+Our solutions would run on any data center or on our own cloud service
+We need to build products that provide a better way of managing the cloud, taking into account all the data available and provide solutions that can make the companies more profitable.
+We will need to build a set of tools/services that allow organizations to efficiently deploy servers/virtual machines that have no limit on the number of servers we can provision as long as the cost is right.
+We will be building solutions that run on a local platform and provide different applications for different needs. For instance, we will be able to provide the same application for a mobile enterprise use case, but it will provide better data security.
+It would be built in a way that IT professionals would be able to configure and tweak to get the best out of the cloud services in the most cost-effective way.
+We will be building systems that enable companies, governments, and other entities to provide their customers with cost optimized services. This is not to be an end all solution to any one service, but to be in the best position to be able to offer services where it makes the most sense for an organization to do so.
+We will be offering different solutions based on the organization's profile and resources.
+We will also create a way for organisations to easily access the OCR generated solutions and create customized reports for them.
+We will develop the product using the latest versions available in the market and have in mind the cost as well as the scalability of future offerings. We will work on a cloud to cloud model where multiple providers will be utilized to provide the best service to the customer.
+We are looking at the use of public market sources to better understand the demand for cloud services
+We will build and provide recommendations on what companies do right in terms of running their systems and what companies do wrong.
+We will be using the analytics tools and services available on the Cloud to provide our solution and we are looking at the options available on Google Analytics, Google Big Query and InfluxDB as well as any other open source tools in the market.
+We intend to build systems that allow for the better control of the resources that need to be on or off the cloud.
+We will be building new tools, processes and tools that can help in solving the use cases for the cloud, in order to extract billing information and make them publically available.
+We intend to focus on real-time and data driven solutions for companies that can help their users perform a more efficient use of clouds resources.
+We will also provide the platform to build custom solutions/dashboards to help organizations leverage the latest trends and innovations in management via the cloud services.
+We seek to build more of those solutions that allow organizations to have more control over the usage of their cloud resources and to also learn some of the cloud platform tools. In this way we can learn more about the market while providing solutions to our clients.
+This will be built using API, OCR, Data Warehouses and Data Servers.
+We will make data available to users/customers as well as build/design user interfaces and integrations to these data which will have a major impact
+We are creating a platform that helps organizations use the cloud to effectively manage their business and their time and effort is well spent by using our solutions.
+The cloud platform can be hosted on own internal servers or on shared servers depending on the type of software or hardware that we are building and the budget available to us.
+The aim of this blog would be to enable a wider audience to understand the challenges we find in developing & managing cloud infrastructure, and also to highlight the current shortcomings and how we plan on resolving them in due course.
+We would be building a platform called a "cloud management platform" (CMP) using SOA platform and technologies such as SOA, Open source standards and REST API's.
+On completion of our product, we would build an ecosystem of data analytics and analytics infrastructure as a service/API solutions that would serve organizations to help manage their costs and growth
+This is likely to involve some open source components as there is an opportunity to do the data entry from a central repository like Salesforce or Google. Using open source components of that kind (e.g. Lucene) will enable us to develop solutions quickly and use open source libraries and applications.
+We will provide solutions that help better analyse the costs and performance.
+Building solutions based on the customer's requirements and their cloud service offerings.
+Systems will be designed not only for public cloud providers but for cloud providers as well. It will be a hybrid approach to a system.
+We will make most of the software in-house to build upon our existing back-end systems. The goal would be to build the most powerful web-based software system that can be easily integrated with various cloud solutions. The ultimate goal would be to provide cloud-based billing and related solutions to the customers without any integration into their back end software.
+We will also be able to provide business intelligence and automation of the entire process and help organizations to take away most of the complexities, by just automating some work.
+We intend to provide a cloud environment within the cloud for the organizations, so organizations do not have to pay multiple bills to their cloud provider for different areas for the same service.
+We will be a global vendor that can adapt to any kind of Cloud environment by building a product that can be deployed in the cloud as many times as needed, as long as one has the capability to deliver the solution.
+We will be building systems that analyse the billing information from large or small organizations and identify different services that are going on simultaneously that have low value to run concurrently and are high value to run in a different service or a different time.
+We also want to help the organization to manage, deploy, and scale their cloud infrastructure cost effectively while still being able to provide the same set of services to the users
+We will be able to optimize the cost, performance, and time of our cloud usage
+Cloud is a great way to provide remote support to people. But only if you have the tools required to deliver it.
+We will build solutions for organizations from different industry verticals to understand and exploit cloud usage for different business types.
+Cloud will be as critical to our organization in the future as is still today. Thus we have to look at this opportunity very, very carefully.
+We will provide both the development and integration platform as well the solution for the cloud management as a whole.
+For example, if a client has a billing problem due to over or under billing or due to data mismatch, this solution will be built using the data obtained from the organizations as well as that received from the public sources.
+We intend to build systems that can use data from public or corporate sources to generate recommendations for allocating resources to the customer.
+We intend to scale the services across the organization based on their own financial model.
+We will be building services that take into account the usage patterns of the customers and recommend solutions with the best cost in terms of revenue and usage efficiency, based on that information from public sources and from the user's billing and other information.
+We will be building systems with the ability to make predictions and suggest optimal solutions based on the data. For example, by predicting that a system will take too long to run and recommend adding more capacity without the cost of additional capacity.
+We are trying to come up with a unique solutions based on the needs of our target market.
+The company would use tools to help determine how this can be leveraged in the most efficient way for the organizations.
+We will make an ecosystem based around the data. Thus the ecosystem takes on the use and the benefits of all the other platforms so the data can be used and consumed at the optimal level of efficiency and cost minimization.
+Our goal will be to simplify the billing process for cloud providers by providing to the companies their most current pricing information including discounts and usage information such as the number of users per hour, the number of documents per hour, the number of virtual machines and what else they use the cloud for.
+We will aim to provide tools to build an infrastructure that can scale using new innovative technologies.
+We need to establish a cloud management system that can help us to manage the resources required for the cloud systems
+We will design custom architectures using the data obtained from public sources and the billing and other information from the organizations and try to use this information to build optimised solutions that can optimize cloud service consumption.
+We will develop a solution for cloud storage that can help organizations to control and manage their costs in managing and storing their data for public information.
+We intend to provide a complete solution that can integrate with other offerings through the APIs.
+We intend to build the systems to be very simple, robust and reliable but with the ability to scale automatically. There is no need to worry much at the current stage about performance issues.
+We intend to build systems that help data governance. This will involve identifying the various aspects of cloud computing related to it, such as security, and building systems that can help with that. This will also involve using systems to ensure that the data within the cloud gets to where it is going. It this system is properly built, this will help cloud users in managing their own data securely and easily.
+We are building something that would empower organizations by providing them with information on their spend that they can use to build budgets, make strategic decisions on future investment of time and money.
+We intend to build solutions that can be adapted to different requirements of companies so that the companies can scale the solution and make it scalable without much effort.
+We intend to develop software and automated processes that can help enterprises with automation in their cloud infrastructure.
+To do this we will need big data technologies like Apache Hadoop, MongoDB, Apache Spark, etc.
+We will also be working towards providing tools to manage and optimise the billing based on the resource consumption rather than looking into the billing on an on-demand basis.
+We would build products like the following:
+We can be build the necessary infrastructure to pull data from various sources and provide solutions to the resource optimization issue.
+We would like to build applications to help organisations manage Cloud resources and optimize their utilization by using AI to create new services while automating manual tasks of billing and monitoring and creating reports.
+We will build a system that uses an integration with Amazon Web Services and can support both private as well as some public AWS services.
+For example, the cloud billing system we will create would have different modules to help identify cloud usage, billing systems, costs etc.
+We will be building some of our applications in Java (applets and servlets) and some of that will be cross platform (client/server) as well as client/server only (J2EE). However, the majority of the applications will still be on client/server only, as Java has a low development cost but it's not the ultimate solution for any of this.
+We need a way to extract billing information from the billing APIs and then provide an optimal OCR solution so that other cloud services can get paid and manage the cost effectively.
+We will aim to help them with their legal and regulatory issues related to using the cloud. We will aim to help them by providing them best legal and regulatory policies at the beginning while they build the necessary systems.
+We will also create a model where we can see where to extract more value out of our cloud systems by understanding what the most useful applications are.
+Cloud can be a good option for the small organizations who get new clients each month from the companies, and they don't want to invest in a new data centre that can only handle a few users.
+The data provided from these solutions will enable us to optimize the cost of running the system for each org.
+We are going to start by building custom solutions to the following areas:
+We intend to work on enabling organizations that have a lot of internal data like ERP systems and legacy accounting system to use our system. We will take advantage of this with our new model where we will work closely with the organizations to provide them with a complete and accurate audit to their cloud service consumption over the last 4 to 5 years,
+We are building our own cloud products, which can be provided free of cost or paid by the end user.
+In addition to use public APIs it would be useful to also create public APIs that are not publicly available - something we could call APIs for customers only so to avoid misuse.
+A hybrid platform will be built that will perform the operations that requires heavy compute and low memory, while providing other services to the organizations (such as providing access to corporate data to certain departments or users). This would provide much needed scalability for the organizations without the need to scale the whole system.
+We would build a lot of modules for different functional areas in order to give clients better solutions by providing a platform that not only simplifies the services and billing related to the cloud but it will provide analytics.
+We will be using our own tools such as data visualization, data analytics, data mining, AI etc.
+Building a suite of products from the point of view of cost efficiency, customer service and availability.
