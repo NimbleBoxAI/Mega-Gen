@@ -7,7 +7,7 @@ from helpers import *
 
 # Read Dataset
 
-data_path = 'data/I2_1_1000.txt'
+data_path = '../data/I2_1_1000.txt'
 
 with open(data_path,'r') as txtfile:
     biz_ideas = [line.rstrip('\n') for line in txtfile]
